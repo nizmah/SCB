@@ -1,0 +1,81 @@
+﻿<Page x:Class="Als.RolePage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      mc:Ignorable="d" 
+        d:DesignHeight="488" d:DesignWidth="800"
+	    Title="Role">
+
+    
+        <GroupBox Header="Role List" HorizontalAlignment="Stretch" Margin="10" Template="{StaticResource OutGroupBox}" Foreground="White">
+        <ScrollViewer VerticalScrollBarVisibility="Auto" VerticalAlignment="Stretch">
+            <DockPanel Height="Auto" Name="stackPanel1" Width="Auto" LastChildFill="True" >
+                <GroupBox DockPanel.Dock="Top" Header="Searching Parameter" HorizontalAlignment="Stretch" Margin="5" Template="{StaticResource InnerGroupBox}" Foreground="Black">
+
+                    <Grid>
+                        <TextBox Height="23" HorizontalAlignment="Left" Margin="109,14,466,0" Name="txtRoleName" VerticalAlignment="Top" Width="161" />
+                        <TextBlock Height="23" HorizontalAlignment="Left" Margin="17,14,0,0" Name="lblRoleName" Text="Role Name" VerticalAlignment="Top" />
+                        <Button Content="Search" Height="23" Width="100" HorizontalAlignment="Right" Margin="0,80,140,6" Name="btnSearch" VerticalAlignment="Center" Click="btnSearch_Click" />
+                        <Button Content="Reset" Height="23" Width="100" HorizontalAlignment="Right" Margin="0,80,25,6" Name="btnReset" VerticalAlignment="Center" Click="btnReset_Click" />
+                    </Grid>
+                </GroupBox>
+
+                <GroupBox DockPanel.Dock="Top" VerticalAlignment="Stretch" Header="Search Result" HorizontalAlignment="Stretch" Margin="5" Template="{StaticResource InnerGroupBox}" Foreground="Black">
+                    <Grid>
+                        <DataGrid AutoGenerateColumns="False" CanUserAddRows="False" CanUserReorderColumns="False" CanUserResizeColumns="False" 
+                          CanUserResizeRows="False" HeadersVisibility="Column" ItemsSource="{Binding}" Margin="10,45,7,10" 
+                          Name="dgRole" RowHeaderWidth="0" SelectionMode="Single" SelectionUnit="FullRow" 
+                          HorizontalScrollBarVisibility="Auto" VerticalScrollBarVisibility="Auto" MaxWidth="800" MaxHeight="1000" HorizontalAlignment="Left" VerticalAlignment="Stretch">
+                            <DataGrid.Columns>
+                                <DataGridTextColumn x:Name="RowNoColumn" Binding="{Binding Path=RowNo}" Header="No" IsReadOnly="True" Width="25" />
+                                <DataGridTextColumn x:Name="RoleNameColumn" Binding="{Binding Path=Role_Name}" Header="Role Name" IsReadOnly="True" Width="100" />
+                                <DataGridTextColumn x:Name="RoleDescriptionColumn" Binding="{Binding Path=Role_Description}" Header="Description" IsReadOnly="True" Width="200" />
+                                <DataGridTemplateColumn Header="Member" Width="75" >
+                                    <DataGridTemplateColumn.CellTemplate>
+                                        <DataTemplate>
+                                            <Button Style="{StaticResource LinkButton}" Click="Member_Click" HorizontalAlignment="Center" >Member</Button>
+                                        </DataTemplate>
+                                    </DataGridTemplateColumn.CellTemplate>
+                                </DataGridTemplateColumn>
+                                <DataGridTemplateColumn Header="Role Access" Width="75" >
+                                    <DataGridTemplateColumn.CellTemplate>
+                                        <DataTemplate>
+                                            <Button Style="{StaticResource LinkButton}" Click="RoleAccess_Click" HorizontalAlignment="Center" >Role Access</Button>
+                                        </DataTemplate>
+                                    </DataGridTemplateColumn.CellTemplate>
+                                </DataGridTemplateColumn>
+                                <DataGridTemplateColumn Header="Update" Width="75" >
+                                    <DataGridTemplateColumn.CellTemplate>
+                                        <DataTemplate>
+                                            <Button Style="{StaticResource LinkButton}" Click="Update_Click" HorizontalAlignment="Center" >Update</Button>
+                                        </DataTemplate>
+                                    </DataGridTemplateColumn.CellTemplate>
+                                </DataGridTemplateColumn>
+
+                                <DataGridTemplateColumn Header="View" Width="75" >
+                                    <DataGridTemplateColumn.CellTemplate>
+                                        <DataTemplate>
+                                            <Button Style="{StaticResource LinkButton}" Click="View_Click" HorizontalAlignment="Center" >View</Button>
+                                        </DataTemplate>
+                                    </DataGridTemplateColumn.CellTemplate>
+                                </DataGridTemplateColumn>
+                                <DataGridTemplateColumn Header="Delete" Width="75" >
+                                    <DataGridTemplateColumn.CellTemplate>
+                                        <DataTemplate>
+                                            <Button Style="{StaticResource LinkButton}" Click="Delete_Click" HorizontalAlignment="Center" >Delete</Button>
+                                        </DataTemplate>
+                                    </DataGridTemplateColumn.CellTemplate>
+                                </DataGridTemplateColumn>
+                            </DataGrid.Columns>
+
+
+                        </DataGrid>
+                        <Button Content="Create" Height="23" HorizontalAlignment="Left" Margin="10,10,0,167" Name="btnCreate" VerticalAlignment="Top" Width="100" Click="btnCreate_Click" />
+                    </Grid>
+                </GroupBox>
+            </DockPanel>
+        </ScrollViewer>
+    </GroupBox>
+    
+</Page>

@@ -1,0 +1,184 @@
+D:\Projects & Samples\Projects\Samkar\CustomChromeLibrary\bin\Debug\CustomChromeLibrary.dll
+D:\Projects & Samples\Projects\Samkar\CustomChromeLibrary\bin\Debug\CustomChromeLibrary.pdb
+D:\Projects & Samples\Projects\Samkar\CustomChromeLibrary\bin\Debug\Microsoft.Windows.Shell.dll
+D:\Projects & Samples\Projects\Samkar\CustomChromeLibrary\bin\Debug\Microsoft.Windows.Shell.pdb
+D:\Projects & Samples\Projects\Samkar\CustomChromeLibrary\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects & Samples\Projects\Samkar\CustomChromeLibrary\obj\Debug\CaptionButtons.g.cs
+D:\Projects & Samples\Projects\Samkar\CustomChromeLibrary\obj\Debug\CaptionButtonsWithHelp.g.cs
+D:\Projects & Samples\Projects\Samkar\CustomChromeLibrary\obj\Debug\CaptionButtonsWithoutMaximize.g.cs
+D:\Projects & Samples\Projects\Samkar\CustomChromeLibrary\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Projects & Samples\Projects\Samkar\CustomChromeLibrary\obj\Debug\CustomChromeLibrary_MarkupCompile.cache
+D:\Projects & Samples\Projects\Samkar\CustomChromeLibrary\obj\Debug\CustomChromeLibrary_MarkupCompile.lref
+D:\Projects & Samples\Projects\Samkar\CustomChromeLibrary\obj\Debug\CaptionButtons.baml
+D:\Projects & Samples\Projects\Samkar\CustomChromeLibrary\obj\Debug\CaptionButtonsWithHelp.baml
+D:\Projects & Samples\Projects\Samkar\CustomChromeLibrary\obj\Debug\CaptionButtonsWithoutMaximize.baml
+D:\Projects & Samples\Projects\Samkar\CustomChromeLibrary\obj\Debug\Themes\Generic.baml
+D:\Projects & Samples\Projects\Samkar\CustomChromeLibrary\obj\Debug\CustomChromeLibrary.g.resources
+D:\Projects & Samples\Projects\Samkar\CustomChromeLibrary\obj\Debug\CustomChromeLibrary.Properties.Resources.resources
+D:\Projects & Samples\Projects\Samkar\CustomChromeLibrary\obj\Debug\GenerateResource.read.1.tlog
+D:\Projects & Samples\Projects\Samkar\CustomChromeLibrary\obj\Debug\GenerateResource.write.1.tlog
+D:\Projects & Samples\Projects\Samkar\CustomChromeLibrary\obj\Debug\CustomChromeLibrary.dll
+D:\Projects & Samples\Projects\Samkar\CustomChromeLibrary\obj\Debug\CustomChromeLibrary.pdb
+C:\Users\Rafael\Documents\Visual Studio 2010\Projects\CustomChromeLibrary\bin\Debug\CustomChromeLibrary.dll
+C:\Users\Rafael\Documents\Visual Studio 2010\Projects\CustomChromeLibrary\bin\Debug\CustomChromeLibrary.pdb
+C:\Users\Rafael\Documents\Visual Studio 2010\Projects\CustomChromeLibrary\bin\Debug\Microsoft.Windows.Shell.dll
+C:\Users\Rafael\Documents\Visual Studio 2010\Projects\CustomChromeLibrary\bin\Debug\Microsoft.Windows.Shell.pdb
+C:\Users\Rafael\Documents\Visual Studio 2010\Projects\CustomChromeLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Rafael\Documents\Visual Studio 2010\Projects\CustomChromeLibrary\obj\Debug\CaptionButtons.g.cs
+C:\Users\Rafael\Documents\Visual Studio 2010\Projects\CustomChromeLibrary\obj\Debug\CaptionButtonsWithHelp.g.cs
+C:\Users\Rafael\Documents\Visual Studio 2010\Projects\CustomChromeLibrary\obj\Debug\CaptionButtonsWithoutMaximize.g.cs
+C:\Users\Rafael\Documents\Visual Studio 2010\Projects\CustomChromeLibrary\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Rafael\Documents\Visual Studio 2010\Projects\CustomChromeLibrary\obj\Debug\CustomChromeLibrary_MarkupCompile.cache
+C:\Users\Rafael\Documents\Visual Studio 2010\Projects\CustomChromeLibrary\obj\Debug\CustomChromeLibrary_MarkupCompile.lref
+C:\Users\Rafael\Documents\Visual Studio 2010\Projects\CustomChromeLibrary\obj\Debug\CaptionButtons.baml
+C:\Users\Rafael\Documents\Visual Studio 2010\Projects\CustomChromeLibrary\obj\Debug\CaptionButtonsWithHelp.baml
+C:\Users\Rafael\Documents\Visual Studio 2010\Projects\CustomChromeLibrary\obj\Debug\CaptionButtonsWithoutMaximize.baml
+C:\Users\Rafael\Documents\Visual Studio 2010\Projects\CustomChromeLibrary\obj\Debug\Themes\Generic.baml
+C:\Users\Rafael\Documents\Visual Studio 2010\Projects\CustomChromeLibrary\obj\Debug\CustomChromeLibrary.g.resources
+C:\Users\Rafael\Documents\Visual Studio 2010\Projects\CustomChromeLibrary\obj\Debug\CustomChromeLibrary.Properties.Resources.resources
+C:\Users\Rafael\Documents\Visual Studio 2010\Projects\CustomChromeLibrary\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Rafael\Documents\Visual Studio 2010\Projects\CustomChromeLibrary\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Rafael\Documents\Visual Studio 2010\Projects\CustomChromeLibrary\obj\Debug\CustomChromeLibrary.dll
+C:\Users\Rafael\Documents\Visual Studio 2010\Projects\CustomChromeLibrary\obj\Debug\CustomChromeLibrary.pdb
+C:\_ADI\JOB\STANDARDCHARTERED_PROJECT\source\Samkar\Samkar\CustomChromeLibrary\bin\Debug\CustomChromeLibrary.dll
+C:\_ADI\JOB\STANDARDCHARTERED_PROJECT\source\Samkar\Samkar\CustomChromeLibrary\bin\Debug\CustomChromeLibrary.pdb
+C:\_ADI\JOB\STANDARDCHARTERED_PROJECT\source\Samkar\Samkar\CustomChromeLibrary\bin\Debug\Microsoft.Windows.Shell.dll
+C:\_ADI\JOB\STANDARDCHARTERED_PROJECT\source\Samkar\Samkar\CustomChromeLibrary\bin\Debug\Microsoft.Windows.Shell.pdb
+C:\_ADI\JOB\STANDARDCHARTERED_PROJECT\source\Samkar\Samkar\CustomChromeLibrary\obj\Debug\CustomChromeLibrary.csprojResolveAssemblyReference.cache
+C:\_ADI\JOB\STANDARDCHARTERED_PROJECT\source\Samkar\Samkar\CustomChromeLibrary\obj\Debug\CaptionButtons.g.cs
+C:\_ADI\JOB\STANDARDCHARTERED_PROJECT\source\Samkar\Samkar\CustomChromeLibrary\obj\Debug\CaptionButtonsWithHelp.g.cs
+C:\_ADI\JOB\STANDARDCHARTERED_PROJECT\source\Samkar\Samkar\CustomChromeLibrary\obj\Debug\CaptionButtonsWithoutMaximize.g.cs
+C:\_ADI\JOB\STANDARDCHARTERED_PROJECT\source\Samkar\Samkar\CustomChromeLibrary\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\_ADI\JOB\STANDARDCHARTERED_PROJECT\source\Samkar\Samkar\CustomChromeLibrary\obj\Debug\CustomChromeLibrary_MarkupCompile.cache
+C:\_ADI\JOB\STANDARDCHARTERED_PROJECT\source\Samkar\Samkar\CustomChromeLibrary\obj\Debug\CustomChromeLibrary_MarkupCompile.lref
+C:\_ADI\JOB\STANDARDCHARTERED_PROJECT\source\Samkar\Samkar\CustomChromeLibrary\obj\Debug\CaptionButtons.baml
+C:\_ADI\JOB\STANDARDCHARTERED_PROJECT\source\Samkar\Samkar\CustomChromeLibrary\obj\Debug\CaptionButtonsWithHelp.baml
+C:\_ADI\JOB\STANDARDCHARTERED_PROJECT\source\Samkar\Samkar\CustomChromeLibrary\obj\Debug\CaptionButtonsWithoutMaximize.baml
+C:\_ADI\JOB\STANDARDCHARTERED_PROJECT\source\Samkar\Samkar\CustomChromeLibrary\obj\Debug\Themes\Generic.baml
+C:\_ADI\JOB\STANDARDCHARTERED_PROJECT\source\Samkar\Samkar\CustomChromeLibrary\obj\Debug\CustomChromeLibrary.g.resources
+C:\_ADI\JOB\STANDARDCHARTERED_PROJECT\source\Samkar\Samkar\CustomChromeLibrary\obj\Debug\CustomChromeLibrary.Properties.Resources.resources
+C:\_ADI\JOB\STANDARDCHARTERED_PROJECT\source\Samkar\Samkar\CustomChromeLibrary\obj\Debug\CustomChromeLibrary.csproj.GenerateResource.Cache
+C:\_ADI\JOB\STANDARDCHARTERED_PROJECT\source\Samkar\Samkar\CustomChromeLibrary\obj\Debug\CustomChromeLibrary.dll
+C:\_ADI\JOB\STANDARDCHARTERED_PROJECT\source\Samkar\Samkar\CustomChromeLibrary\obj\Debug\CustomChromeLibrary.pdb
+E:\Code.id\Standart Chartered Documents\source\Samkar\Samkar\CustomChromeLibrary\bin\Debug\CustomChromeLibrary.dll
+E:\Code.id\Standart Chartered Documents\source\Samkar\Samkar\CustomChromeLibrary\bin\Debug\CustomChromeLibrary.pdb
+E:\Code.id\Standart Chartered Documents\source\Samkar\Samkar\CustomChromeLibrary\bin\Debug\Microsoft.Windows.Shell.dll
+E:\Code.id\Standart Chartered Documents\source\Samkar\Samkar\CustomChromeLibrary\bin\Debug\Microsoft.Windows.Shell.pdb
+E:\Code.id\Standart Chartered Documents\source\Samkar\Samkar\CustomChromeLibrary\obj\Debug\ResolveAssemblyReference.cache
+E:\Code.id\Standart Chartered Documents\source\Samkar\Samkar\CustomChromeLibrary\obj\Debug\CaptionButtons.g.cs
+E:\Code.id\Standart Chartered Documents\source\Samkar\Samkar\CustomChromeLibrary\obj\Debug\CaptionButtonsWithHelp.g.cs
+E:\Code.id\Standart Chartered Documents\source\Samkar\Samkar\CustomChromeLibrary\obj\Debug\CaptionButtonsWithoutMaximize.g.cs
+E:\Code.id\Standart Chartered Documents\source\Samkar\Samkar\CustomChromeLibrary\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Code.id\Standart Chartered Documents\source\Samkar\Samkar\CustomChromeLibrary\obj\Debug\CustomChromeLibrary_MarkupCompile.cache
+E:\Code.id\Standart Chartered Documents\source\Samkar\Samkar\CustomChromeLibrary\obj\Debug\CustomChromeLibrary_MarkupCompile.lref
+E:\Code.id\Standart Chartered Documents\source\Samkar\Samkar\CustomChromeLibrary\obj\Debug\CaptionButtons.baml
+E:\Code.id\Standart Chartered Documents\source\Samkar\Samkar\CustomChromeLibrary\obj\Debug\CaptionButtonsWithHelp.baml
+E:\Code.id\Standart Chartered Documents\source\Samkar\Samkar\CustomChromeLibrary\obj\Debug\CaptionButtonsWithoutMaximize.baml
+E:\Code.id\Standart Chartered Documents\source\Samkar\Samkar\CustomChromeLibrary\obj\Debug\Themes\Generic.baml
+E:\Code.id\Standart Chartered Documents\source\Samkar\Samkar\CustomChromeLibrary\obj\Debug\CustomChromeLibrary.g.resources
+E:\Code.id\Standart Chartered Documents\source\Samkar\Samkar\CustomChromeLibrary\obj\Debug\CustomChromeLibrary.Properties.Resources.resources
+E:\Code.id\Standart Chartered Documents\source\Samkar\Samkar\CustomChromeLibrary\obj\Debug\GenerateResource.read.1.tlog
+E:\Code.id\Standart Chartered Documents\source\Samkar\Samkar\CustomChromeLibrary\obj\Debug\GenerateResource.write.1.tlog
+E:\Code.id\Standart Chartered Documents\source\Samkar\Samkar\CustomChromeLibrary\obj\Debug\CustomChromeLibrary.dll
+E:\Code.id\Standart Chartered Documents\source\Samkar\Samkar\CustomChromeLibrary\obj\Debug\CustomChromeLibrary.pdb
+E:\Code.id\Standart Chartered Documents\ALS\CustomChromeLibrary\bin\Debug\CustomChromeLibrary.dll
+E:\Code.id\Standart Chartered Documents\ALS\CustomChromeLibrary\bin\Debug\CustomChromeLibrary.pdb
+E:\Code.id\Standart Chartered Documents\ALS\CustomChromeLibrary\bin\Debug\Microsoft.Windows.Shell.dll
+E:\Code.id\Standart Chartered Documents\ALS\CustomChromeLibrary\bin\Debug\Microsoft.Windows.Shell.pdb
+E:\Code.id\Standart Chartered Documents\ALS\CustomChromeLibrary\obj\Debug\ResolveAssemblyReference.cache
+E:\Code.id\Standart Chartered Documents\ALS\CustomChromeLibrary\obj\Debug\CaptionButtons.g.cs
+E:\Code.id\Standart Chartered Documents\ALS\CustomChromeLibrary\obj\Debug\CaptionButtonsWithHelp.g.cs
+E:\Code.id\Standart Chartered Documents\ALS\CustomChromeLibrary\obj\Debug\CaptionButtonsWithoutMaximize.g.cs
+E:\Code.id\Standart Chartered Documents\ALS\CustomChromeLibrary\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Code.id\Standart Chartered Documents\ALS\CustomChromeLibrary\obj\Debug\CustomChromeLibrary_MarkupCompile.cache
+E:\Code.id\Standart Chartered Documents\ALS\CustomChromeLibrary\obj\Debug\CustomChromeLibrary_MarkupCompile.lref
+E:\Code.id\Standart Chartered Documents\ALS\CustomChromeLibrary\obj\Debug\CaptionButtons.baml
+E:\Code.id\Standart Chartered Documents\ALS\CustomChromeLibrary\obj\Debug\CaptionButtonsWithHelp.baml
+E:\Code.id\Standart Chartered Documents\ALS\CustomChromeLibrary\obj\Debug\CaptionButtonsWithoutMaximize.baml
+E:\Code.id\Standart Chartered Documents\ALS\CustomChromeLibrary\obj\Debug\Themes\Generic.baml
+E:\Code.id\Standart Chartered Documents\ALS\CustomChromeLibrary\obj\Debug\CustomChromeLibrary.g.resources
+E:\Code.id\Standart Chartered Documents\ALS\CustomChromeLibrary\obj\Debug\CustomChromeLibrary.Properties.Resources.resources
+E:\Code.id\Standart Chartered Documents\ALS\CustomChromeLibrary\obj\Debug\GenerateResource.read.1.tlog
+E:\Code.id\Standart Chartered Documents\ALS\CustomChromeLibrary\obj\Debug\GenerateResource.write.1.tlog
+E:\Code.id\Standart Chartered Documents\ALS\CustomChromeLibrary\obj\Debug\CustomChromeLibrary.dll
+E:\Code.id\Standart Chartered Documents\ALS\CustomChromeLibrary\obj\Debug\CustomChromeLibrary.pdb
+C:\_ADI\JOB\STANDARDCHARTERED_PROJECT\ALS 31032015\ALS\CustomChromeLibrary\bin\Debug\CustomChromeLibrary.dll
+C:\_ADI\JOB\STANDARDCHARTERED_PROJECT\ALS 31032015\ALS\CustomChromeLibrary\bin\Debug\CustomChromeLibrary.pdb
+C:\_ADI\JOB\STANDARDCHARTERED_PROJECT\ALS 31032015\ALS\CustomChromeLibrary\bin\Debug\Microsoft.Windows.Shell.dll
+C:\_ADI\JOB\STANDARDCHARTERED_PROJECT\ALS 31032015\ALS\CustomChromeLibrary\bin\Debug\Microsoft.Windows.Shell.pdb
+C:\_ADI\JOB\STANDARDCHARTERED_PROJECT\ALS 31032015\ALS\CustomChromeLibrary\obj\Debug\CustomChromeLibrary.csprojResolveAssemblyReference.cache
+C:\_ADI\JOB\STANDARDCHARTERED_PROJECT\ALS 31032015\ALS\CustomChromeLibrary\obj\Debug\CaptionButtons.g.cs
+C:\_ADI\JOB\STANDARDCHARTERED_PROJECT\ALS 31032015\ALS\CustomChromeLibrary\obj\Debug\CaptionButtonsWithHelp.g.cs
+C:\_ADI\JOB\STANDARDCHARTERED_PROJECT\ALS 31032015\ALS\CustomChromeLibrary\obj\Debug\CaptionButtonsWithoutMaximize.g.cs
+C:\_ADI\JOB\STANDARDCHARTERED_PROJECT\ALS 31032015\ALS\CustomChromeLibrary\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\_ADI\JOB\STANDARDCHARTERED_PROJECT\ALS 31032015\ALS\CustomChromeLibrary\obj\Debug\CustomChromeLibrary_MarkupCompile.cache
+C:\_ADI\JOB\STANDARDCHARTERED_PROJECT\ALS 31032015\ALS\CustomChromeLibrary\obj\Debug\CustomChromeLibrary_MarkupCompile.lref
+C:\_ADI\JOB\STANDARDCHARTERED_PROJECT\ALS 31032015\ALS\CustomChromeLibrary\obj\Debug\CaptionButtons.baml
+C:\_ADI\JOB\STANDARDCHARTERED_PROJECT\ALS 31032015\ALS\CustomChromeLibrary\obj\Debug\CaptionButtonsWithHelp.baml
+C:\_ADI\JOB\STANDARDCHARTERED_PROJECT\ALS 31032015\ALS\CustomChromeLibrary\obj\Debug\CaptionButtonsWithoutMaximize.baml
+C:\_ADI\JOB\STANDARDCHARTERED_PROJECT\ALS 31032015\ALS\CustomChromeLibrary\obj\Debug\Themes\Generic.baml
+C:\_ADI\JOB\STANDARDCHARTERED_PROJECT\ALS 31032015\ALS\CustomChromeLibrary\obj\Debug\CustomChromeLibrary.g.resources
+C:\_ADI\JOB\STANDARDCHARTERED_PROJECT\ALS 31032015\ALS\CustomChromeLibrary\obj\Debug\CustomChromeLibrary.Properties.Resources.resources
+C:\_ADI\JOB\STANDARDCHARTERED_PROJECT\ALS 31032015\ALS\CustomChromeLibrary\obj\Debug\CustomChromeLibrary.csproj.GenerateResource.Cache
+C:\_ADI\JOB\STANDARDCHARTERED_PROJECT\ALS 31032015\ALS\CustomChromeLibrary\obj\Debug\CustomChromeLibrary.dll
+C:\_ADI\JOB\STANDARDCHARTERED_PROJECT\ALS 31032015\ALS\CustomChromeLibrary\obj\Debug\CustomChromeLibrary.pdb
+D:\My Project\SCB\ALS 31032015\ALS\CustomChromeLibrary\bin\Debug\CustomChromeLibrary.dll
+D:\My Project\SCB\ALS 31032015\ALS\CustomChromeLibrary\bin\Debug\CustomChromeLibrary.pdb
+D:\My Project\SCB\ALS 31032015\ALS\CustomChromeLibrary\bin\Debug\Microsoft.Windows.Shell.dll
+D:\My Project\SCB\ALS 31032015\ALS\CustomChromeLibrary\bin\Debug\Microsoft.Windows.Shell.pdb
+D:\My Project\SCB\ALS 31032015\ALS\CustomChromeLibrary\obj\Debug\CustomChromeLibrary.csprojResolveAssemblyReference.cache
+D:\My Project\SCB\ALS 31032015\ALS\CustomChromeLibrary\obj\Debug\CaptionButtons.g.cs
+D:\My Project\SCB\ALS 31032015\ALS\CustomChromeLibrary\obj\Debug\CaptionButtonsWithHelp.g.cs
+D:\My Project\SCB\ALS 31032015\ALS\CustomChromeLibrary\obj\Debug\CaptionButtonsWithoutMaximize.g.cs
+D:\My Project\SCB\ALS 31032015\ALS\CustomChromeLibrary\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\My Project\SCB\ALS 31032015\ALS\CustomChromeLibrary\obj\Debug\CustomChromeLibrary_MarkupCompile.cache
+D:\My Project\SCB\ALS 31032015\ALS\CustomChromeLibrary\obj\Debug\CustomChromeLibrary_MarkupCompile.lref
+D:\My Project\SCB\ALS 31032015\ALS\CustomChromeLibrary\obj\Debug\CaptionButtons.baml
+D:\My Project\SCB\ALS 31032015\ALS\CustomChromeLibrary\obj\Debug\CaptionButtonsWithHelp.baml
+D:\My Project\SCB\ALS 31032015\ALS\CustomChromeLibrary\obj\Debug\CaptionButtonsWithoutMaximize.baml
+D:\My Project\SCB\ALS 31032015\ALS\CustomChromeLibrary\obj\Debug\Themes\Generic.baml
+D:\My Project\SCB\ALS 31032015\ALS\CustomChromeLibrary\obj\Debug\CustomChromeLibrary.g.resources
+D:\My Project\SCB\ALS 31032015\ALS\CustomChromeLibrary\obj\Debug\CustomChromeLibrary.Properties.Resources.resources
+D:\My Project\SCB\ALS 31032015\ALS\CustomChromeLibrary\obj\Debug\CustomChromeLibrary.csproj.GenerateResource.Cache
+D:\My Project\SCB\ALS 31032015\ALS\CustomChromeLibrary\obj\Debug\CustomChromeLibrary.dll
+D:\My Project\SCB\ALS 31032015\ALS\CustomChromeLibrary\obj\Debug\CustomChromeLibrary.pdb
+D:\My Project\SCB\Backup\20150520\ALS 31032015\ALS\CustomChromeLibrary\bin\Debug\CustomChromeLibrary.dll
+D:\My Project\SCB\Backup\20150520\ALS 31032015\ALS\CustomChromeLibrary\bin\Debug\CustomChromeLibrary.pdb
+D:\My Project\SCB\Backup\20150520\ALS 31032015\ALS\CustomChromeLibrary\bin\Debug\Microsoft.Windows.Shell.dll
+D:\My Project\SCB\Backup\20150520\ALS 31032015\ALS\CustomChromeLibrary\bin\Debug\Microsoft.Windows.Shell.pdb
+D:\My Project\SCB\Backup\20150520\ALS 31032015\ALS\CustomChromeLibrary\obj\Debug\CustomChromeLibrary.csprojResolveAssemblyReference.cache
+D:\My Project\SCB\Backup\20150520\ALS 31032015\ALS\CustomChromeLibrary\obj\Debug\CaptionButtons.g.cs
+D:\My Project\SCB\Backup\20150520\ALS 31032015\ALS\CustomChromeLibrary\obj\Debug\CaptionButtonsWithHelp.g.cs
+D:\My Project\SCB\Backup\20150520\ALS 31032015\ALS\CustomChromeLibrary\obj\Debug\CaptionButtonsWithoutMaximize.g.cs
+D:\My Project\SCB\Backup\20150520\ALS 31032015\ALS\CustomChromeLibrary\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\My Project\SCB\Backup\20150520\ALS 31032015\ALS\CustomChromeLibrary\obj\Debug\CustomChromeLibrary_MarkupCompile.cache
+D:\My Project\SCB\Backup\20150520\ALS 31032015\ALS\CustomChromeLibrary\obj\Debug\CustomChromeLibrary_MarkupCompile.lref
+D:\My Project\SCB\Backup\20150520\ALS 31032015\ALS\CustomChromeLibrary\obj\Debug\CaptionButtons.baml
+D:\My Project\SCB\Backup\20150520\ALS 31032015\ALS\CustomChromeLibrary\obj\Debug\CaptionButtonsWithHelp.baml
+D:\My Project\SCB\Backup\20150520\ALS 31032015\ALS\CustomChromeLibrary\obj\Debug\CaptionButtonsWithoutMaximize.baml
+D:\My Project\SCB\Backup\20150520\ALS 31032015\ALS\CustomChromeLibrary\obj\Debug\Themes\Generic.baml
+D:\My Project\SCB\Backup\20150520\ALS 31032015\ALS\CustomChromeLibrary\obj\Debug\CustomChromeLibrary.g.resources
+D:\My Project\SCB\Backup\20150520\ALS 31032015\ALS\CustomChromeLibrary\obj\Debug\CustomChromeLibrary.Properties.Resources.resources
+D:\My Project\SCB\Backup\20150520\ALS 31032015\ALS\CustomChromeLibrary\obj\Debug\CustomChromeLibrary.csproj.GenerateResource.Cache
+D:\My Project\SCB\Backup\20150520\ALS 31032015\ALS\CustomChromeLibrary\obj\Debug\CustomChromeLibrary.dll
+D:\My Project\SCB\Backup\20150520\ALS 31032015\ALS\CustomChromeLibrary\obj\Debug\CustomChromeLibrary.pdb
+D:\My Project\SCB\ALS\ALS\CustomChromeLibrary\bin\Debug\CustomChromeLibrary.dll
+D:\My Project\SCB\ALS\ALS\CustomChromeLibrary\bin\Debug\CustomChromeLibrary.pdb
+D:\My Project\SCB\ALS\ALS\CustomChromeLibrary\bin\Debug\Microsoft.Windows.Shell.dll
+D:\My Project\SCB\ALS\ALS\CustomChromeLibrary\bin\Debug\Microsoft.Windows.Shell.pdb
+D:\My Project\SCB\ALS\ALS\CustomChromeLibrary\obj\Debug\CustomChromeLibrary.csprojResolveAssemblyReference.cache
+D:\My Project\SCB\ALS\ALS\CustomChromeLibrary\obj\Debug\CaptionButtons.g.cs
+D:\My Project\SCB\ALS\ALS\CustomChromeLibrary\obj\Debug\CaptionButtonsWithHelp.g.cs
+D:\My Project\SCB\ALS\ALS\CustomChromeLibrary\obj\Debug\CaptionButtonsWithoutMaximize.g.cs
+D:\My Project\SCB\ALS\ALS\CustomChromeLibrary\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\My Project\SCB\ALS\ALS\CustomChromeLibrary\obj\Debug\CustomChromeLibrary_MarkupCompile.cache
+D:\My Project\SCB\ALS\ALS\CustomChromeLibrary\obj\Debug\CustomChromeLibrary_MarkupCompile.lref
+D:\My Project\SCB\ALS\ALS\CustomChromeLibrary\obj\Debug\CaptionButtons.baml
+D:\My Project\SCB\ALS\ALS\CustomChromeLibrary\obj\Debug\CaptionButtonsWithHelp.baml
+D:\My Project\SCB\ALS\ALS\CustomChromeLibrary\obj\Debug\CaptionButtonsWithoutMaximize.baml
+D:\My Project\SCB\ALS\ALS\CustomChromeLibrary\obj\Debug\Themes\Generic.baml
+D:\My Project\SCB\ALS\ALS\CustomChromeLibrary\obj\Debug\CustomChromeLibrary.g.resources
+D:\My Project\SCB\ALS\ALS\CustomChromeLibrary\obj\Debug\CustomChromeLibrary.Properties.Resources.resources
+D:\My Project\SCB\ALS\ALS\CustomChromeLibrary\obj\Debug\CustomChromeLibrary.csproj.GenerateResource.Cache
+D:\My Project\SCB\ALS\ALS\CustomChromeLibrary\obj\Debug\CustomChromeLibrary.dll
+D:\My Project\SCB\ALS\ALS\CustomChromeLibrary\obj\Debug\CustomChromeLibrary.pdb

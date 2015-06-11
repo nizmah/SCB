@@ -1,0 +1,266 @@
+D:\My Project\SCB\ALS 31032015\ALS\Als\Als\bin\Debug\Als.exe.config
+D:\My Project\SCB\ALS 31032015\ALS\Als\Als\obj\x86\Debug\Als.exe
+D:\My Project\SCB\ALS 31032015\ALS\Als\Als\obj\x86\Debug\Als.pdb
+D:\My Project\SCB\ALS 31032015\ALS\Als\Als\bin\Debug\Database1.accdb
+D:\My Project\SCB\ALS 31032015\ALS\Als\Als\bin\Debug\Report\Report1.rdlc
+D:\My Project\SCB\ALS 31032015\ALS\Als\Als\bin\Debug\Report\Report3.rdlc
+D:\My Project\SCB\ALS 31032015\ALS\Als\Als\bin\Debug\Report\Report4.rdlc
+D:\My Project\SCB\ALS 31032015\ALS\Als\Als\bin\Debug\Report\RptSettlement.rdlc
+D:\My Project\SCB\ALS 31032015\ALS\Als\Als\bin\Debug\Report\Rpt2.rdlc
+D:\My Project\SCB\ALS 31032015\ALS\Als\Als\bin\Debug\Report\RptSettlementVendor.rdlc
+D:\My Project\SCB\ALS 31032015\ALS\Als\Als\bin\Debug\Report\RptUPGLDraft.rdlc
+D:\My Project\SCB\ALS 31032015\ALS\Als\Als\bin\Debug\Als.exe.manifest
+D:\My Project\SCB\ALS 31032015\ALS\Als\Als\bin\Debug\Als.application
+D:\My Project\SCB\ALS 31032015\ALS\Als\Als\bin\Debug\Als.exe
+D:\My Project\SCB\ALS 31032015\ALS\Als\Als\bin\Debug\Als.pdb
+D:\My Project\SCB\ALS 31032015\ALS\Als\Als\bin\Debug\Als.Enums.dll
+D:\My Project\SCB\ALS 31032015\ALS\Als\Als\bin\Debug\Als.Helper.dll
+D:\My Project\SCB\ALS 31032015\ALS\Als\Als\bin\Debug\Als.Permissions.dll
+D:\My Project\SCB\ALS 31032015\ALS\Als\Als\bin\Debug\CustomChromeLibrary.dll
+D:\My Project\SCB\ALS 31032015\ALS\Als\Als\bin\Debug\Microsoft.Windows.Shell.dll
+D:\My Project\SCB\ALS 31032015\ALS\Als\Als\bin\Debug\Als.Enums.pdb
+D:\My Project\SCB\ALS 31032015\ALS\Als\Als\bin\Debug\Als.Helper.pdb
+D:\My Project\SCB\ALS 31032015\ALS\Als\Als\bin\Debug\Als.Permissions.pdb
+D:\My Project\SCB\ALS 31032015\ALS\Als\Als\bin\Debug\CustomChromeLibrary.pdb
+D:\My Project\SCB\ALS 31032015\ALS\Als\Als\bin\Debug\Microsoft.Windows.Shell.pdb
+D:\My Project\SCB\ALS 31032015\ALS\Als\Als\obj\x86\Debug\Als.csprojResolveAssemblyReference.cache
+D:\My Project\SCB\ALS 31032015\ALS\Als\Als\obj\x86\Debug\AuditTrailPage.baml
+D:\My Project\SCB\ALS 31032015\ALS\Als\Als\obj\x86\Debug\AuditTrailReportWindow.baml
+D:\My Project\SCB\ALS 31032015\ALS\Als\Als\obj\x86\Debug\BankDetailWindow.baml
+D:\My Project\SCB\ALS 31032015\ALS\Als\Als\obj\x86\Debug\BankLookupWindow.baml
+D:\My Project\SCB\ALS 31032015\ALS\Als\Als\obj\x86\Debug\BankPage.baml
+D:\My Project\SCB\ALS 31032015\ALS\Als\Als\obj\x86\Debug\CardDetailWindow.baml
+D:\My Project\SCB\ALS 31032015\ALS\Als\Als\obj\x86\Debug\DeleteAuditTrailPage.baml
+D:\My Project\SCB\ALS 31032015\ALS\Als\Als\obj\x86\Debug\GeneratedDraftOutputWindow.baml
+D:\My Project\SCB\ALS 31032015\ALS\Als\Als\obj\x86\Debug\MemoPaymentPage.baml
+D:\My Project\SCB\ALS 31032015\ALS\Als\Als\obj\x86\Debug\MemoPaymentReport.baml
+D:\My Project\SCB\ALS 31032015\ALS\Als\Als\obj\x86\Debug\MemoPaymentReportWindow.baml
+D:\My Project\SCB\ALS 31032015\ALS\Als\Als\obj\x86\Debug\MonthlyReportPage.baml
+D:\My Project\SCB\ALS 31032015\ALS\Als\Als\obj\x86\Debug\MonthlyReportWindow.baml
+D:\My Project\SCB\ALS 31032015\ALS\Als\Als\obj\x86\Debug\MonthlyTransactionPage.baml
+D:\My Project\SCB\ALS 31032015\ALS\Als\Als\obj\x86\Debug\DailyTransactionPage.baml
+D:\My Project\SCB\ALS 31032015\ALS\Als\Als\obj\x86\Debug\CardPage.baml
+D:\My Project\SCB\ALS 31032015\ALS\Als\Als\obj\x86\Debug\CardTypeDetailWindow.baml
+D:\My Project\SCB\ALS 31032015\ALS\Als\Als\obj\x86\Debug\CardTypePage.baml
+D:\My Project\SCB\ALS 31032015\ALS\Als\Als\obj\x86\Debug\dailytransaction.baml
+D:\My Project\SCB\ALS 31032015\ALS\Als\Als\obj\x86\Debug\GLAccountDetailWindow.baml
+D:\My Project\SCB\ALS 31032015\ALS\Als\Als\obj\x86\Debug\GLAccountPage.baml
+D:\My Project\SCB\ALS 31032015\ALS\Als\Als\obj\x86\Debug\LoginBox.baml
+D:\My Project\SCB\ALS 31032015\ALS\Als\Als\obj\x86\Debug\LoginWindow.baml
+D:\My Project\SCB\ALS 31032015\ALS\Als\Als\obj\x86\Debug\MerchantDetailWindow.baml
+D:\My Project\SCB\ALS 31032015\ALS\Als\Als\obj\x86\Debug\MerchantLookupWindow.baml
+D:\My Project\SCB\ALS 31032015\ALS\Als\Als\obj\x86\Debug\MerchantPage.baml
+D:\My Project\SCB\ALS 31032015\ALS\Als\Als\obj\x86\Debug\MerchantPriceListDetailWindow.baml
+D:\My Project\SCB\ALS 31032015\ALS\Als\Als\obj\x86\Debug\ApprovalDailyTransactionPage.baml
+D:\My Project\SCB\ALS 31032015\ALS\Als\Als\obj\x86\Debug\MerchantPriceListPage.baml
+D:\My Project\SCB\ALS 31032015\ALS\Als\Als\obj\x86\Debug\Page1.baml
+D:\My Project\SCB\ALS 31032015\ALS\Als\Als\obj\x86\Debug\Pageuploadexcel.baml
+D:\My Project\SCB\ALS 31032015\ALS\Als\Als\obj\x86\Debug\RoleAccessPage.baml
+D:\My Project\SCB\ALS 31032015\ALS\Als\Als\obj\x86\Debug\RoleDetailWindow.baml
+D:\My Project\SCB\ALS 31032015\ALS\Als\Als\obj\x86\Debug\RolePage.baml
+D:\My Project\SCB\ALS 31032015\ALS\Als\Als\obj\x86\Debug\UserDetailWindow.baml
+D:\My Project\SCB\ALS 31032015\ALS\Als\Als\obj\x86\Debug\UserLookupWindow.baml
+D:\My Project\SCB\ALS 31032015\ALS\Als\Als\obj\x86\Debug\UserLookupWindow2.baml
+D:\My Project\SCB\ALS 31032015\ALS\Als\Als\obj\x86\Debug\UserPage.baml
+D:\My Project\SCB\ALS 31032015\ALS\Als\Als\obj\x86\Debug\UserRolePage.baml
+D:\My Project\SCB\ALS 31032015\ALS\Als\Als\obj\x86\Debug\VendorDetailWindow.baml
+D:\My Project\SCB\ALS 31032015\ALS\Als\Als\obj\x86\Debug\VendorLookupWindow.baml
+D:\My Project\SCB\ALS 31032015\ALS\Als\Als\obj\x86\Debug\VendorPage.baml
+D:\My Project\SCB\ALS 31032015\ALS\Als\Als\obj\x86\Debug\AuditTrailPage.g.cs
+D:\My Project\SCB\ALS 31032015\ALS\Als\Als\obj\x86\Debug\AuditTrailReportWindow.g.cs
+D:\My Project\SCB\ALS 31032015\ALS\Als\Als\obj\x86\Debug\BankDetailWindow.g.cs
+D:\My Project\SCB\ALS 31032015\ALS\Als\Als\obj\x86\Debug\BankLookupWindow.g.cs
+D:\My Project\SCB\ALS 31032015\ALS\Als\Als\obj\x86\Debug\BankPage.g.cs
+D:\My Project\SCB\ALS 31032015\ALS\Als\Als\obj\x86\Debug\CardDetailWindow.g.cs
+D:\My Project\SCB\ALS 31032015\ALS\Als\Als\obj\x86\Debug\DeleteAuditTrailPage.g.cs
+D:\My Project\SCB\ALS 31032015\ALS\Als\Als\obj\x86\Debug\GeneratedDraftOutputWindow.g.cs
+D:\My Project\SCB\ALS 31032015\ALS\Als\Als\obj\x86\Debug\MemoPaymentPage.g.cs
+D:\My Project\SCB\ALS 31032015\ALS\Als\Als\obj\x86\Debug\MemoPaymentReport.g.cs
+D:\My Project\SCB\ALS 31032015\ALS\Als\Als\obj\x86\Debug\MemoPaymentReportWindow.g.cs
+D:\My Project\SCB\ALS 31032015\ALS\Als\Als\obj\x86\Debug\MonthlyReportPage.g.cs
+D:\My Project\SCB\ALS 31032015\ALS\Als\Als\obj\x86\Debug\MonthlyReportWindow.g.cs
+D:\My Project\SCB\ALS 31032015\ALS\Als\Als\obj\x86\Debug\MonthlyTransactionPage.g.cs
+D:\My Project\SCB\ALS 31032015\ALS\Als\Als\obj\x86\Debug\DailyTransactionPage.g.cs
+D:\My Project\SCB\ALS 31032015\ALS\Als\Als\obj\x86\Debug\CardPage.g.cs
+D:\My Project\SCB\ALS 31032015\ALS\Als\Als\obj\x86\Debug\CardTypeDetailWindow.g.cs
+D:\My Project\SCB\ALS 31032015\ALS\Als\Als\obj\x86\Debug\CardTypePage.g.cs
+D:\My Project\SCB\ALS 31032015\ALS\Als\Als\obj\x86\Debug\dailytransaction.g.cs
+D:\My Project\SCB\ALS 31032015\ALS\Als\Als\obj\x86\Debug\GLAccountDetailWindow.g.cs
+D:\My Project\SCB\ALS 31032015\ALS\Als\Als\obj\x86\Debug\GLAccountPage.g.cs
+D:\My Project\SCB\ALS 31032015\ALS\Als\Als\obj\x86\Debug\LoginBox.g.cs
+D:\My Project\SCB\ALS 31032015\ALS\Als\Als\obj\x86\Debug\LoginWindow.g.cs
+D:\My Project\SCB\ALS 31032015\ALS\Als\Als\obj\x86\Debug\MainWindow.g.cs
+D:\My Project\SCB\ALS 31032015\ALS\Als\Als\obj\x86\Debug\MerchantDetailWindow.g.cs
+D:\My Project\SCB\ALS 31032015\ALS\Als\Als\obj\x86\Debug\MerchantLookupWindow.g.cs
+D:\My Project\SCB\ALS 31032015\ALS\Als\Als\obj\x86\Debug\MerchantPage.g.cs
+D:\My Project\SCB\ALS 31032015\ALS\Als\Als\obj\x86\Debug\MerchantPriceListDetailWindow.g.cs
+D:\My Project\SCB\ALS 31032015\ALS\Als\Als\obj\x86\Debug\ApprovalDailyTransactionPage.g.cs
+D:\My Project\SCB\ALS 31032015\ALS\Als\Als\obj\x86\Debug\MerchantPriceListPage.g.cs
+D:\My Project\SCB\ALS 31032015\ALS\Als\Als\obj\x86\Debug\Page1.g.cs
+D:\My Project\SCB\ALS 31032015\ALS\Als\Als\obj\x86\Debug\Pageuploadexcel.g.cs
+D:\My Project\SCB\ALS 31032015\ALS\Als\Als\obj\x86\Debug\RoleAccessPage.g.cs
+D:\My Project\SCB\ALS 31032015\ALS\Als\Als\obj\x86\Debug\RoleDetailWindow.g.cs
+D:\My Project\SCB\ALS 31032015\ALS\Als\Als\obj\x86\Debug\RolePage.g.cs
+D:\My Project\SCB\ALS 31032015\ALS\Als\Als\obj\x86\Debug\UserDetailWindow.g.cs
+D:\My Project\SCB\ALS 31032015\ALS\Als\Als\obj\x86\Debug\UserLookupWindow.g.cs
+D:\My Project\SCB\ALS 31032015\ALS\Als\Als\obj\x86\Debug\UserLookupWindow2.g.cs
+D:\My Project\SCB\ALS 31032015\ALS\Als\Als\obj\x86\Debug\UserPage.g.cs
+D:\My Project\SCB\ALS 31032015\ALS\Als\Als\obj\x86\Debug\UserRolePage.g.cs
+D:\My Project\SCB\ALS 31032015\ALS\Als\Als\obj\x86\Debug\VendorDetailWindow.g.cs
+D:\My Project\SCB\ALS 31032015\ALS\Als\Als\obj\x86\Debug\VendorLookupWindow.g.cs
+D:\My Project\SCB\ALS 31032015\ALS\Als\Als\obj\x86\Debug\VendorPage.g.cs
+D:\My Project\SCB\ALS 31032015\ALS\Als\Als\obj\x86\Debug\App.g.cs
+D:\My Project\SCB\ALS 31032015\ALS\Als\Als\obj\x86\Debug\Als_Content.g.cs
+D:\My Project\SCB\ALS 31032015\ALS\Als\Als\obj\x86\Debug\Als_MarkupCompile.cache
+D:\My Project\SCB\ALS 31032015\ALS\Als\Als\obj\x86\Debug\Als_MarkupCompile.lref
+D:\My Project\SCB\ALS 31032015\ALS\Als\Als\obj\x86\Debug\App.baml
+D:\My Project\SCB\ALS 31032015\ALS\Als\Als\obj\x86\Debug\MainWindow.baml
+D:\My Project\SCB\ALS 31032015\ALS\Als\Als\obj\x86\Debug\Als.g.resources
+D:\My Project\SCB\ALS 31032015\ALS\Als\Als\obj\x86\Debug\Als.Properties.Resources.resources
+D:\My Project\SCB\ALS 31032015\ALS\Als\Als\obj\x86\Debug\Als.csproj.GenerateResource.Cache
+D:\My Project\SCB\ALS 31032015\ALS\Als\Als\obj\x86\Debug\RdlCompile.cache
+D:\My Project\SCB\ALS 31032015\ALS\Als\Als\obj\x86\Debug\RdlCompile.compiled
+D:\My Project\SCB\ALS 31032015\ALS\Als\Als\obj\x86\Debug\Als.exe.manifest
+D:\My Project\SCB\ALS 31032015\ALS\Als\Als\obj\x86\Debug\Als.application
+D:\My Project\SCB\ALS 31032015\ALS\Als\Als\bin\Debug\Report\ReportAuditTrail.rdlc
+D:\My Project\SCB\ALS 31032015\ALS\Als\Als\bin\Debug\Report\ReportMemoPayment.rdlc
+D:\My Project\SCB\ALS 31032015\ALS\Als\Als\bin\Debug\Report\ReportMonthlyReport.rdlc
+D:\My Project\SCB\ALS 31032015\ALS\Als\Als\bin\Debug\Report\RptChargingDraft.rdlc
+D:\My Project\SCB\ALS 31032015\ALS\Als\Als\bin\Debug\Report\RptDeductDraft.rdlc
+D:\My Project\SCB\ALS 31032015\ALS\Als\Als\bin\Debug\Report\RptPSGLDraft.rdlc
+D:\My Project\SCB\ALS 31032015\ALS\Als\Als\bin\Debug\Report\RptTC40MemorandumDraft.rdlc
+D:\My Project\SCB\ALS 31032015\ALS\Als\Als\obj\x86\Debug\GeneratedApprovedOutputWindow.baml
+D:\My Project\SCB\ALS 31032015\ALS\Als\Als\obj\x86\Debug\GeneratedApprovedOutputWindow.g.cs
+D:\My Project\SCB\ALS\ALS\Als\Als\bin\Debug\Als.exe.config
+D:\My Project\SCB\ALS\ALS\Als\Als\obj\x86\Debug\Als.exe
+D:\My Project\SCB\ALS\ALS\Als\Als\obj\x86\Debug\Als.pdb
+D:\My Project\SCB\ALS\ALS\Als\Als\bin\Debug\Database1.accdb
+D:\My Project\SCB\ALS\ALS\Als\Als\bin\Debug\Report\Report1.rdlc
+D:\My Project\SCB\ALS\ALS\Als\Als\bin\Debug\Report\Report3.rdlc
+D:\My Project\SCB\ALS\ALS\Als\Als\bin\Debug\Report\Report4.rdlc
+D:\My Project\SCB\ALS\ALS\Als\Als\bin\Debug\Report\ReportAuditTrail.rdlc
+D:\My Project\SCB\ALS\ALS\Als\Als\bin\Debug\Report\ReportMemoPayment.rdlc
+D:\My Project\SCB\ALS\ALS\Als\Als\bin\Debug\Report\ReportMonthlyReport.rdlc
+D:\My Project\SCB\ALS\ALS\Als\Als\bin\Debug\Report\RptChargingDraft.rdlc
+D:\My Project\SCB\ALS\ALS\Als\Als\bin\Debug\Report\RptDeductDraft.rdlc
+D:\My Project\SCB\ALS\ALS\Als\Als\bin\Debug\Report\RptPSGLDraft.rdlc
+D:\My Project\SCB\ALS\ALS\Als\Als\bin\Debug\Report\RptSettlement.rdlc
+D:\My Project\SCB\ALS\ALS\Als\Als\bin\Debug\Report\Rpt2.rdlc
+D:\My Project\SCB\ALS\ALS\Als\Als\bin\Debug\Report\RptSettlementVendor.rdlc
+D:\My Project\SCB\ALS\ALS\Als\Als\bin\Debug\Report\RptTC40MemorandumDraft.rdlc
+D:\My Project\SCB\ALS\ALS\Als\Als\bin\Debug\Report\RptUPGLDraft.rdlc
+D:\My Project\SCB\ALS\ALS\Als\Als\bin\Debug\Als.exe.manifest
+D:\My Project\SCB\ALS\ALS\Als\Als\bin\Debug\Als.application
+D:\My Project\SCB\ALS\ALS\Als\Als\bin\Debug\Als.exe
+D:\My Project\SCB\ALS\ALS\Als\Als\bin\Debug\Als.pdb
+D:\My Project\SCB\ALS\ALS\Als\Als\bin\Debug\Als.Enums.dll
+D:\My Project\SCB\ALS\ALS\Als\Als\bin\Debug\Als.Helper.dll
+D:\My Project\SCB\ALS\ALS\Als\Als\bin\Debug\Als.Permissions.dll
+D:\My Project\SCB\ALS\ALS\Als\Als\bin\Debug\CustomChromeLibrary.dll
+D:\My Project\SCB\ALS\ALS\Als\Als\bin\Debug\Microsoft.Windows.Shell.dll
+D:\My Project\SCB\ALS\ALS\Als\Als\bin\Debug\Als.Enums.pdb
+D:\My Project\SCB\ALS\ALS\Als\Als\bin\Debug\Als.Helper.pdb
+D:\My Project\SCB\ALS\ALS\Als\Als\bin\Debug\Als.Permissions.pdb
+D:\My Project\SCB\ALS\ALS\Als\Als\bin\Debug\CustomChromeLibrary.pdb
+D:\My Project\SCB\ALS\ALS\Als\Als\bin\Debug\Microsoft.Windows.Shell.pdb
+D:\My Project\SCB\ALS\ALS\Als\Als\obj\x86\Debug\Als.csprojResolveAssemblyReference.cache
+D:\My Project\SCB\ALS\ALS\Als\Als\obj\x86\Debug\AuditTrailPage.baml
+D:\My Project\SCB\ALS\ALS\Als\Als\obj\x86\Debug\AuditTrailReportWindow.baml
+D:\My Project\SCB\ALS\ALS\Als\Als\obj\x86\Debug\BankDetailWindow.baml
+D:\My Project\SCB\ALS\ALS\Als\Als\obj\x86\Debug\BankLookupWindow.baml
+D:\My Project\SCB\ALS\ALS\Als\Als\obj\x86\Debug\BankPage.baml
+D:\My Project\SCB\ALS\ALS\Als\Als\obj\x86\Debug\CardDetailWindow.baml
+D:\My Project\SCB\ALS\ALS\Als\Als\obj\x86\Debug\DeleteAuditTrailPage.baml
+D:\My Project\SCB\ALS\ALS\Als\Als\obj\x86\Debug\GeneratedApprovedOutputWindow.baml
+D:\My Project\SCB\ALS\ALS\Als\Als\obj\x86\Debug\GeneratedDraftOutputWindow.baml
+D:\My Project\SCB\ALS\ALS\Als\Als\obj\x86\Debug\MemoPaymentPage.baml
+D:\My Project\SCB\ALS\ALS\Als\Als\obj\x86\Debug\MemoPaymentReport.baml
+D:\My Project\SCB\ALS\ALS\Als\Als\obj\x86\Debug\MemoPaymentReportWindow.baml
+D:\My Project\SCB\ALS\ALS\Als\Als\obj\x86\Debug\MonthlyReportPage.baml
+D:\My Project\SCB\ALS\ALS\Als\Als\obj\x86\Debug\MonthlyReportWindow.baml
+D:\My Project\SCB\ALS\ALS\Als\Als\obj\x86\Debug\MonthlyTransactionPage.baml
+D:\My Project\SCB\ALS\ALS\Als\Als\obj\x86\Debug\DailyTransactionPage.baml
+D:\My Project\SCB\ALS\ALS\Als\Als\obj\x86\Debug\CardPage.baml
+D:\My Project\SCB\ALS\ALS\Als\Als\obj\x86\Debug\CardTypeDetailWindow.baml
+D:\My Project\SCB\ALS\ALS\Als\Als\obj\x86\Debug\CardTypePage.baml
+D:\My Project\SCB\ALS\ALS\Als\Als\obj\x86\Debug\dailytransaction.baml
+D:\My Project\SCB\ALS\ALS\Als\Als\obj\x86\Debug\GLAccountDetailWindow.baml
+D:\My Project\SCB\ALS\ALS\Als\Als\obj\x86\Debug\GLAccountPage.baml
+D:\My Project\SCB\ALS\ALS\Als\Als\obj\x86\Debug\LoginBox.baml
+D:\My Project\SCB\ALS\ALS\Als\Als\obj\x86\Debug\LoginWindow.baml
+D:\My Project\SCB\ALS\ALS\Als\Als\obj\x86\Debug\MerchantDetailWindow.baml
+D:\My Project\SCB\ALS\ALS\Als\Als\obj\x86\Debug\MerchantLookupWindow.baml
+D:\My Project\SCB\ALS\ALS\Als\Als\obj\x86\Debug\MerchantPage.baml
+D:\My Project\SCB\ALS\ALS\Als\Als\obj\x86\Debug\MerchantPriceListDetailWindow.baml
+D:\My Project\SCB\ALS\ALS\Als\Als\obj\x86\Debug\ApprovalDailyTransactionPage.baml
+D:\My Project\SCB\ALS\ALS\Als\Als\obj\x86\Debug\MerchantPriceListPage.baml
+D:\My Project\SCB\ALS\ALS\Als\Als\obj\x86\Debug\Page1.baml
+D:\My Project\SCB\ALS\ALS\Als\Als\obj\x86\Debug\Pageuploadexcel.baml
+D:\My Project\SCB\ALS\ALS\Als\Als\obj\x86\Debug\RoleAccessPage.baml
+D:\My Project\SCB\ALS\ALS\Als\Als\obj\x86\Debug\RoleDetailWindow.baml
+D:\My Project\SCB\ALS\ALS\Als\Als\obj\x86\Debug\RolePage.baml
+D:\My Project\SCB\ALS\ALS\Als\Als\obj\x86\Debug\UserDetailWindow.baml
+D:\My Project\SCB\ALS\ALS\Als\Als\obj\x86\Debug\UserLookupWindow.baml
+D:\My Project\SCB\ALS\ALS\Als\Als\obj\x86\Debug\UserLookupWindow2.baml
+D:\My Project\SCB\ALS\ALS\Als\Als\obj\x86\Debug\UserPage.baml
+D:\My Project\SCB\ALS\ALS\Als\Als\obj\x86\Debug\UserRolePage.baml
+D:\My Project\SCB\ALS\ALS\Als\Als\obj\x86\Debug\VendorDetailWindow.baml
+D:\My Project\SCB\ALS\ALS\Als\Als\obj\x86\Debug\VendorLookupWindow.baml
+D:\My Project\SCB\ALS\ALS\Als\Als\obj\x86\Debug\VendorPage.baml
+D:\My Project\SCB\ALS\ALS\Als\Als\obj\x86\Debug\AuditTrailPage.g.cs
+D:\My Project\SCB\ALS\ALS\Als\Als\obj\x86\Debug\AuditTrailReportWindow.g.cs
+D:\My Project\SCB\ALS\ALS\Als\Als\obj\x86\Debug\BankDetailWindow.g.cs
+D:\My Project\SCB\ALS\ALS\Als\Als\obj\x86\Debug\BankLookupWindow.g.cs
+D:\My Project\SCB\ALS\ALS\Als\Als\obj\x86\Debug\BankPage.g.cs
+D:\My Project\SCB\ALS\ALS\Als\Als\obj\x86\Debug\CardDetailWindow.g.cs
+D:\My Project\SCB\ALS\ALS\Als\Als\obj\x86\Debug\DeleteAuditTrailPage.g.cs
+D:\My Project\SCB\ALS\ALS\Als\Als\obj\x86\Debug\GeneratedApprovedOutputWindow.g.cs
+D:\My Project\SCB\ALS\ALS\Als\Als\obj\x86\Debug\GeneratedDraftOutputWindow.g.cs
+D:\My Project\SCB\ALS\ALS\Als\Als\obj\x86\Debug\MemoPaymentPage.g.cs
+D:\My Project\SCB\ALS\ALS\Als\Als\obj\x86\Debug\MemoPaymentReport.g.cs
+D:\My Project\SCB\ALS\ALS\Als\Als\obj\x86\Debug\MemoPaymentReportWindow.g.cs
+D:\My Project\SCB\ALS\ALS\Als\Als\obj\x86\Debug\MonthlyReportPage.g.cs
+D:\My Project\SCB\ALS\ALS\Als\Als\obj\x86\Debug\MonthlyReportWindow.g.cs
+D:\My Project\SCB\ALS\ALS\Als\Als\obj\x86\Debug\MonthlyTransactionPage.g.cs
+D:\My Project\SCB\ALS\ALS\Als\Als\obj\x86\Debug\DailyTransactionPage.g.cs
+D:\My Project\SCB\ALS\ALS\Als\Als\obj\x86\Debug\CardPage.g.cs
+D:\My Project\SCB\ALS\ALS\Als\Als\obj\x86\Debug\CardTypeDetailWindow.g.cs
+D:\My Project\SCB\ALS\ALS\Als\Als\obj\x86\Debug\CardTypePage.g.cs
+D:\My Project\SCB\ALS\ALS\Als\Als\obj\x86\Debug\dailytransaction.g.cs
+D:\My Project\SCB\ALS\ALS\Als\Als\obj\x86\Debug\GLAccountDetailWindow.g.cs
+D:\My Project\SCB\ALS\ALS\Als\Als\obj\x86\Debug\GLAccountPage.g.cs
+D:\My Project\SCB\ALS\ALS\Als\Als\obj\x86\Debug\LoginBox.g.cs
+D:\My Project\SCB\ALS\ALS\Als\Als\obj\x86\Debug\LoginWindow.g.cs
+D:\My Project\SCB\ALS\ALS\Als\Als\obj\x86\Debug\MainWindow.g.cs
+D:\My Project\SCB\ALS\ALS\Als\Als\obj\x86\Debug\MerchantDetailWindow.g.cs
+D:\My Project\SCB\ALS\ALS\Als\Als\obj\x86\Debug\MerchantLookupWindow.g.cs
+D:\My Project\SCB\ALS\ALS\Als\Als\obj\x86\Debug\MerchantPage.g.cs
+D:\My Project\SCB\ALS\ALS\Als\Als\obj\x86\Debug\MerchantPriceListDetailWindow.g.cs
+D:\My Project\SCB\ALS\ALS\Als\Als\obj\x86\Debug\ApprovalDailyTransactionPage.g.cs
+D:\My Project\SCB\ALS\ALS\Als\Als\obj\x86\Debug\MerchantPriceListPage.g.cs
+D:\My Project\SCB\ALS\ALS\Als\Als\obj\x86\Debug\Page1.g.cs
+D:\My Project\SCB\ALS\ALS\Als\Als\obj\x86\Debug\Pageuploadexcel.g.cs
+D:\My Project\SCB\ALS\ALS\Als\Als\obj\x86\Debug\RoleAccessPage.g.cs
+D:\My Project\SCB\ALS\ALS\Als\Als\obj\x86\Debug\RoleDetailWindow.g.cs
+D:\My Project\SCB\ALS\ALS\Als\Als\obj\x86\Debug\RolePage.g.cs
+D:\My Project\SCB\ALS\ALS\Als\Als\obj\x86\Debug\UserDetailWindow.g.cs
+D:\My Project\SCB\ALS\ALS\Als\Als\obj\x86\Debug\UserLookupWindow.g.cs
+D:\My Project\SCB\ALS\ALS\Als\Als\obj\x86\Debug\UserLookupWindow2.g.cs
+D:\My Project\SCB\ALS\ALS\Als\Als\obj\x86\Debug\UserPage.g.cs
+D:\My Project\SCB\ALS\ALS\Als\Als\obj\x86\Debug\UserRolePage.g.cs
+D:\My Project\SCB\ALS\ALS\Als\Als\obj\x86\Debug\VendorDetailWindow.g.cs
+D:\My Project\SCB\ALS\ALS\Als\Als\obj\x86\Debug\VendorLookupWindow.g.cs
+D:\My Project\SCB\ALS\ALS\Als\Als\obj\x86\Debug\VendorPage.g.cs
+D:\My Project\SCB\ALS\ALS\Als\Als\obj\x86\Debug\App.g.cs
+D:\My Project\SCB\ALS\ALS\Als\Als\obj\x86\Debug\Als_Content.g.cs
+D:\My Project\SCB\ALS\ALS\Als\Als\obj\x86\Debug\Als_MarkupCompile.cache
+D:\My Project\SCB\ALS\ALS\Als\Als\obj\x86\Debug\Als_MarkupCompile.lref
+D:\My Project\SCB\ALS\ALS\Als\Als\obj\x86\Debug\App.baml
+D:\My Project\SCB\ALS\ALS\Als\Als\obj\x86\Debug\MainWindow.baml
+D:\My Project\SCB\ALS\ALS\Als\Als\obj\x86\Debug\Als.g.resources
+D:\My Project\SCB\ALS\ALS\Als\Als\obj\x86\Debug\Als.Properties.Resources.resources
+D:\My Project\SCB\ALS\ALS\Als\Als\obj\x86\Debug\Als.csproj.GenerateResource.Cache
+D:\My Project\SCB\ALS\ALS\Als\Als\obj\x86\Debug\RdlCompile.cache
+D:\My Project\SCB\ALS\ALS\Als\Als\obj\x86\Debug\RdlCompile.compiled
+D:\My Project\SCB\ALS\ALS\Als\Als\obj\x86\Debug\Als.exe.manifest
+D:\My Project\SCB\ALS\ALS\Als\Als\obj\x86\Debug\Als.application

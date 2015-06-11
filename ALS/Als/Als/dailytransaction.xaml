@@ -1,0 +1,22 @@
+﻿<Page x:Class="Als.dailytransaction"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      mc:Ignorable="d" 
+      d:DesignHeight="300" d:DesignWidth="524.436"
+	Title="dailytransaction">
+
+    <Grid Margin="0,0,-155,0" HorizontalAlignment="Left" Width="679">
+        <TextBox x:Name="txtupload_dui" HorizontalAlignment="Left" Height="23" Margin="116,92,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="356"/>
+        <Button x:Name="btnUpload_dui" Content="SELECT FILE" HorizontalAlignment="Left" Margin="490,93,0,0" VerticalAlignment="Top" Width="107" Click="btnUpload_dui_Click"/>
+        <Button x:Name="btnProses" Content="PROSES" Margin="490,0,0,56" VerticalAlignment="Bottom" Click="btnProses_Click" HorizontalAlignment="Left" Width="107"/>
+        <TextBox x:Name="txtupload_lui" HorizontalAlignment="Left" Height="23" Margin="116,128,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="356"/>
+        <Button x:Name="btnUpload_lui" Content="SELECT FILE" HorizontalAlignment="Left" Margin="490,129,0,0" VerticalAlignment="Top" Width="107" Click="btnUpload_lui_Click"/>
+        <Label Content="DUI" HorizontalAlignment="Left" Margin="44,93,0,0" VerticalAlignment="Top" Width="67"/>
+        <Label Content="LUI" HorizontalAlignment="Left" Margin="44,129,0,0" VerticalAlignment="Top" Width="67"/>
+        <TextBox x:Name="txtupload_reward" HorizontalAlignment="Left" Height="23" Margin="116,171,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="356"/>
+        <Button x:Name="btnUpload_reward" Content="SELECT FILE" HorizontalAlignment="Left" Margin="490,172,0,0" VerticalAlignment="Top" Width="107" Click="btnUpload_reward_Click"/>
+        <Label Content="REWARD" HorizontalAlignment="Left" Margin="44,172,0,0" VerticalAlignment="Top" Width="67"/>
+    </Grid>
+</Page>

@@ -1,0 +1,554 @@
+C:\Users\Rafael\Documents\Visual Studio 2010\Projects\Samkar\Samkar\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Rafael\Documents\Visual Studio 2010\Projects\Samkar\Samkar\obj\x86\Debug\AboutUs.baml
+C:\Users\Rafael\Documents\Visual Studio 2010\Projects\Samkar\Samkar\obj\x86\Debug\HomePage.baml
+C:\Users\Rafael\Documents\Visual Studio 2010\Projects\Samkar\Samkar\obj\x86\Debug\HomePage_Connectivity.baml
+C:\Users\Rafael\Documents\Visual Studio 2010\Projects\Samkar\Samkar\obj\x86\Debug\HomePage_CustomersUsers.baml
+C:\Users\Rafael\Documents\Visual Studio 2010\Projects\Samkar\Samkar\obj\x86\Debug\Homepage_InventoryPurchases.baml
+C:\Users\Rafael\Documents\Visual Studio 2010\Projects\Samkar\Samkar\obj\x86\Debug\HomePage_SalesFinance.baml
+C:\Users\Rafael\Documents\Visual Studio 2010\Projects\Samkar\Samkar\obj\x86\Debug\LoginBox.baml
+C:\Users\Rafael\Documents\Visual Studio 2010\Projects\Samkar\Samkar\obj\x86\Debug\LoginWindow.baml
+C:\Users\Rafael\Documents\Visual Studio 2010\Projects\Samkar\Samkar\obj\x86\Debug\sAutoGenPOPage1.baml
+C:\Users\Rafael\Documents\Visual Studio 2010\Projects\Samkar\Samkar\obj\x86\Debug\sAutoGenPOStart.baml
+C:\Users\Rafael\Documents\Visual Studio 2010\Projects\Samkar\Samkar\obj\x86\Debug\sBackup.baml
+C:\Users\Rafael\Documents\Visual Studio 2010\Projects\Samkar\Samkar\obj\x86\Debug\sEndOfDay.baml
+C:\Users\Rafael\Documents\Visual Studio 2010\Projects\Samkar\Samkar\obj\x86\Debug\sExportWizard.baml
+C:\Users\Rafael\Documents\Visual Studio 2010\Projects\Samkar\Samkar\obj\x86\Debug\sExportWizardPage2.baml
+C:\Users\Rafael\Documents\Visual Studio 2010\Projects\Samkar\Samkar\obj\x86\Debug\sExportWizardPage3.baml
+C:\Users\Rafael\Documents\Visual Studio 2010\Projects\Samkar\Samkar\obj\x86\Debug\sFinancialsProfitLoss.baml
+C:\Users\Rafael\Documents\Visual Studio 2010\Projects\Samkar\Samkar\obj\x86\Debug\sFindFromGrid.baml
+C:\Users\Rafael\Documents\Visual Studio 2010\Projects\Samkar\Samkar\obj\x86\Debug\sGetterDiscTaxAmt.baml
+C:\Users\Rafael\Documents\Visual Studio 2010\Projects\Samkar\Samkar\obj\x86\Debug\sImportWizard.baml
+C:\Users\Rafael\Documents\Visual Studio 2010\Projects\Samkar\Samkar\obj\x86\Debug\sImportWizardPage1.baml
+C:\Users\Rafael\Documents\Visual Studio 2010\Projects\Samkar\Samkar\obj\x86\Debug\sImportWizardPage2.baml
+C:\Users\Rafael\Documents\Visual Studio 2010\Projects\Samkar\Samkar\obj\x86\Debug\sImportWizardPage4.baml
+C:\Users\Rafael\Documents\Visual Studio 2010\Projects\Samkar\Samkar\obj\x86\Debug\sImportWizardStartPage.baml
+C:\Users\Rafael\Documents\Visual Studio 2010\Projects\Samkar\Samkar\obj\x86\Debug\sModifyCustomer.baml
+C:\Users\Rafael\Documents\Visual Studio 2010\Projects\Samkar\Samkar\obj\x86\Debug\sNewCostAdjustment.baml
+C:\Users\Rafael\Documents\Visual Studio 2010\Projects\Samkar\Samkar\obj\x86\Debug\sNewCustomer.baml
+C:\Users\Rafael\Documents\Visual Studio 2010\Projects\Samkar\Samkar\obj\x86\Debug\sNewCustomerPayment.baml
+C:\Users\Rafael\Documents\Visual Studio 2010\Projects\Samkar\Samkar\obj\x86\Debug\sNewItem.baml
+C:\Users\Rafael\Documents\Visual Studio 2010\Projects\Samkar\Samkar\obj\x86\Debug\sNewQtyAdjustment.baml
+C:\Users\Rafael\Documents\Visual Studio 2010\Projects\Samkar\Samkar\obj\x86\Debug\sNewVendor.baml
+C:\Users\Rafael\Documents\Visual Studio 2010\Projects\Samkar\Samkar\obj\x86\Debug\sNewVendorPayment.baml
+C:\Users\Rafael\Documents\Visual Studio 2010\Projects\Samkar\Samkar\obj\x86\Debug\sOptions.baml
+C:\Users\Rafael\Documents\Visual Studio 2010\Projects\Samkar\Samkar\obj\x86\Debug\sPriceAdjustment.baml
+C:\Users\Rafael\Documents\Visual Studio 2010\Projects\Samkar\Samkar\obj\x86\Debug\sPurchaseOrder.baml
+C:\Users\Rafael\Documents\Visual Studio 2010\Projects\Samkar\Samkar\obj\x86\Debug\sQuickViewReport.baml
+C:\Users\Rafael\Documents\Visual Studio 2010\Projects\Samkar\Samkar\obj\x86\Debug\sReceiveNewItems.baml
+C:\Users\Rafael\Documents\Visual Studio 2010\Projects\Samkar\Samkar\obj\x86\Debug\sRemoveCustomer.baml
+C:\Users\Rafael\Documents\Visual Studio 2010\Projects\Samkar\Samkar\obj\x86\Debug\sReportCenter.baml
+C:\Users\Rafael\Documents\Visual Studio 2010\Projects\Samkar\Samkar\obj\x86\Debug\sReportViewer.baml
+C:\Users\Rafael\Documents\Visual Studio 2010\Projects\Samkar\Samkar\obj\x86\Debug\sRestore.baml
+C:\Users\Rafael\Documents\Visual Studio 2010\Projects\Samkar\Samkar\obj\x86\Debug\sReturnHistory.baml
+C:\Users\Rafael\Documents\Visual Studio 2010\Projects\Samkar\Samkar\obj\x86\Debug\sSalesHistory.baml
+C:\Users\Rafael\Documents\Visual Studio 2010\Projects\Samkar\Samkar\obj\x86\Debug\sSalesResport.baml
+C:\Users\Rafael\Documents\Visual Studio 2010\Projects\Samkar\Samkar\obj\x86\Debug\sSecurity.baml
+C:\Users\Rafael\Documents\Visual Studio 2010\Projects\Samkar\Samkar\obj\x86\Debug\sStockTaking.baml
+C:\Users\Rafael\Documents\Visual Studio 2010\Projects\Samkar\Samkar\obj\x86\Debug\AboutUs.g.cs
+C:\Users\Rafael\Documents\Visual Studio 2010\Projects\Samkar\Samkar\obj\x86\Debug\HomePage.g.cs
+C:\Users\Rafael\Documents\Visual Studio 2010\Projects\Samkar\Samkar\obj\x86\Debug\HomePage_Connectivity.g.cs
+C:\Users\Rafael\Documents\Visual Studio 2010\Projects\Samkar\Samkar\obj\x86\Debug\HomePage_CustomersUsers.g.cs
+C:\Users\Rafael\Documents\Visual Studio 2010\Projects\Samkar\Samkar\obj\x86\Debug\Homepage_InventoryPurchases.g.cs
+C:\Users\Rafael\Documents\Visual Studio 2010\Projects\Samkar\Samkar\obj\x86\Debug\HomePage_SalesFinance.g.cs
+C:\Users\Rafael\Documents\Visual Studio 2010\Projects\Samkar\Samkar\obj\x86\Debug\LoginBox.g.cs
+C:\Users\Rafael\Documents\Visual Studio 2010\Projects\Samkar\Samkar\obj\x86\Debug\LoginWindow.g.cs
+C:\Users\Rafael\Documents\Visual Studio 2010\Projects\Samkar\Samkar\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Rafael\Documents\Visual Studio 2010\Projects\Samkar\Samkar\obj\x86\Debug\sAutoGenPOPage1.g.cs
+C:\Users\Rafael\Documents\Visual Studio 2010\Projects\Samkar\Samkar\obj\x86\Debug\sAutoGenPOStart.g.cs
+C:\Users\Rafael\Documents\Visual Studio 2010\Projects\Samkar\Samkar\obj\x86\Debug\sBackup.g.cs
+C:\Users\Rafael\Documents\Visual Studio 2010\Projects\Samkar\Samkar\obj\x86\Debug\sEndOfDay.g.cs
+C:\Users\Rafael\Documents\Visual Studio 2010\Projects\Samkar\Samkar\obj\x86\Debug\sExportWizard.g.cs
+C:\Users\Rafael\Documents\Visual Studio 2010\Projects\Samkar\Samkar\obj\x86\Debug\sExportWizardPage1.g.cs
+C:\Users\Rafael\Documents\Visual Studio 2010\Projects\Samkar\Samkar\obj\x86\Debug\sExportWizardPage2.g.cs
+C:\Users\Rafael\Documents\Visual Studio 2010\Projects\Samkar\Samkar\obj\x86\Debug\sExportWizardPage3.g.cs
+C:\Users\Rafael\Documents\Visual Studio 2010\Projects\Samkar\Samkar\obj\x86\Debug\sFinancialsProfitLoss.g.cs
+C:\Users\Rafael\Documents\Visual Studio 2010\Projects\Samkar\Samkar\obj\x86\Debug\sFindFromGrid.g.cs
+C:\Users\Rafael\Documents\Visual Studio 2010\Projects\Samkar\Samkar\obj\x86\Debug\sGetterDiscTaxAmt.g.cs
+C:\Users\Rafael\Documents\Visual Studio 2010\Projects\Samkar\Samkar\obj\x86\Debug\sImportWizard.g.cs
+C:\Users\Rafael\Documents\Visual Studio 2010\Projects\Samkar\Samkar\obj\x86\Debug\sImportWizardPage1.g.cs
+C:\Users\Rafael\Documents\Visual Studio 2010\Projects\Samkar\Samkar\obj\x86\Debug\sImportWizardPage2.g.cs
+C:\Users\Rafael\Documents\Visual Studio 2010\Projects\Samkar\Samkar\obj\x86\Debug\sImportWizardPage3.g.cs
+C:\Users\Rafael\Documents\Visual Studio 2010\Projects\Samkar\Samkar\obj\x86\Debug\sImportWizardPage4.g.cs
+C:\Users\Rafael\Documents\Visual Studio 2010\Projects\Samkar\Samkar\obj\x86\Debug\sImportWizardStartPage.g.cs
+C:\Users\Rafael\Documents\Visual Studio 2010\Projects\Samkar\Samkar\obj\x86\Debug\sModifyCustomer.g.cs
+C:\Users\Rafael\Documents\Visual Studio 2010\Projects\Samkar\Samkar\obj\x86\Debug\sNewCostAdjustment.g.cs
+C:\Users\Rafael\Documents\Visual Studio 2010\Projects\Samkar\Samkar\obj\x86\Debug\sNewCustomer.g.cs
+C:\Users\Rafael\Documents\Visual Studio 2010\Projects\Samkar\Samkar\obj\x86\Debug\sNewCustomerPayment.g.cs
+C:\Users\Rafael\Documents\Visual Studio 2010\Projects\Samkar\Samkar\obj\x86\Debug\sNewItem.g.cs
+C:\Users\Rafael\Documents\Visual Studio 2010\Projects\Samkar\Samkar\obj\x86\Debug\sNewPayout.g.cs
+C:\Users\Rafael\Documents\Visual Studio 2010\Projects\Samkar\Samkar\obj\x86\Debug\sNewQtyAdjustment.g.cs
+C:\Users\Rafael\Documents\Visual Studio 2010\Projects\Samkar\Samkar\obj\x86\Debug\sNewReturn.g.cs
+C:\Users\Rafael\Documents\Visual Studio 2010\Projects\Samkar\Samkar\obj\x86\Debug\sNewSale.g.cs
+C:\Users\Rafael\Documents\Visual Studio 2010\Projects\Samkar\Samkar\obj\x86\Debug\sNewVendor.g.cs
+C:\Users\Rafael\Documents\Visual Studio 2010\Projects\Samkar\Samkar\obj\x86\Debug\sNewVendorPayment.g.cs
+C:\Users\Rafael\Documents\Visual Studio 2010\Projects\Samkar\Samkar\obj\x86\Debug\sOptions.g.cs
+C:\Users\Rafael\Documents\Visual Studio 2010\Projects\Samkar\Samkar\obj\x86\Debug\sPriceAdjustment.g.cs
+C:\Users\Rafael\Documents\Visual Studio 2010\Projects\Samkar\Samkar\obj\x86\Debug\sPurchaseOrder.g.cs
+C:\Users\Rafael\Documents\Visual Studio 2010\Projects\Samkar\Samkar\obj\x86\Debug\sQuickViewReport.g.cs
+C:\Users\Rafael\Documents\Visual Studio 2010\Projects\Samkar\Samkar\obj\x86\Debug\sReceiveNewItems.g.cs
+C:\Users\Rafael\Documents\Visual Studio 2010\Projects\Samkar\Samkar\obj\x86\Debug\sRemoveCustomer.g.cs
+C:\Users\Rafael\Documents\Visual Studio 2010\Projects\Samkar\Samkar\obj\x86\Debug\sReportCenter.g.cs
+C:\Users\Rafael\Documents\Visual Studio 2010\Projects\Samkar\Samkar\obj\x86\Debug\sReportViewer.g.cs
+C:\Users\Rafael\Documents\Visual Studio 2010\Projects\Samkar\Samkar\obj\x86\Debug\sRestore.g.cs
+C:\Users\Rafael\Documents\Visual Studio 2010\Projects\Samkar\Samkar\obj\x86\Debug\sReturnHistory.g.cs
+C:\Users\Rafael\Documents\Visual Studio 2010\Projects\Samkar\Samkar\obj\x86\Debug\sSalesHistory.g.cs
+C:\Users\Rafael\Documents\Visual Studio 2010\Projects\Samkar\Samkar\obj\x86\Debug\sSalesResport.g.cs
+C:\Users\Rafael\Documents\Visual Studio 2010\Projects\Samkar\Samkar\obj\x86\Debug\sSecurity.g.cs
+C:\Users\Rafael\Documents\Visual Studio 2010\Projects\Samkar\Samkar\obj\x86\Debug\sStockTaking.g.cs
+C:\Users\Rafael\Documents\Visual Studio 2010\Projects\Samkar\Samkar\obj\x86\Debug\App.g.cs
+C:\Users\Rafael\Documents\Visual Studio 2010\Projects\Samkar\Samkar\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Rafael\Documents\Visual Studio 2010\Projects\Samkar\Samkar\obj\x86\Debug\Samkar_MarkupCompile.cache
+C:\Users\Rafael\Documents\Visual Studio 2010\Projects\Samkar\Samkar\obj\x86\Debug\Samkar_MarkupCompile.lref
+C:\Users\Rafael\Documents\Visual Studio 2010\Projects\Samkar\Samkar\bin\Debug\Samkar.exe
+C:\Users\Rafael\Documents\Visual Studio 2010\Projects\Samkar\Samkar\bin\Debug\Samkar.pdb
+C:\Users\Rafael\Documents\Visual Studio 2010\Projects\Samkar\Samkar\bin\Debug\CustomChromeLibrary.dll
+C:\Users\Rafael\Documents\Visual Studio 2010\Projects\Samkar\Samkar\bin\Debug\Microsoft.Windows.Shell.dll
+C:\Users\Rafael\Documents\Visual Studio 2010\Projects\Samkar\Samkar\bin\Debug\Samkar.Helper.dll
+C:\Users\Rafael\Documents\Visual Studio 2010\Projects\Samkar\Samkar\bin\Debug\Samkar.Enums.dll
+C:\Users\Rafael\Documents\Visual Studio 2010\Projects\Samkar\Samkar\bin\Debug\CustomChromeLibrary.pdb
+C:\Users\Rafael\Documents\Visual Studio 2010\Projects\Samkar\Samkar\bin\Debug\Microsoft.Windows.Shell.pdb
+C:\Users\Rafael\Documents\Visual Studio 2010\Projects\Samkar\Samkar\bin\Debug\Samkar.Helper.pdb
+C:\Users\Rafael\Documents\Visual Studio 2010\Projects\Samkar\Samkar\bin\Debug\Samkar.Enums.pdb
+C:\Users\Rafael\Documents\Visual Studio 2010\Projects\Samkar\Samkar\obj\x86\Debug\MainWindow.baml
+C:\Users\Rafael\Documents\Visual Studio 2010\Projects\Samkar\Samkar\obj\x86\Debug\sExportWizardPage1.baml
+C:\Users\Rafael\Documents\Visual Studio 2010\Projects\Samkar\Samkar\obj\x86\Debug\sImportWizardPage3.baml
+C:\Users\Rafael\Documents\Visual Studio 2010\Projects\Samkar\Samkar\obj\x86\Debug\sNewPayout.baml
+C:\Users\Rafael\Documents\Visual Studio 2010\Projects\Samkar\Samkar\obj\x86\Debug\sNewReturn.baml
+C:\Users\Rafael\Documents\Visual Studio 2010\Projects\Samkar\Samkar\obj\x86\Debug\sNewSale.baml
+C:\Users\Rafael\Documents\Visual Studio 2010\Projects\Samkar\Samkar\obj\x86\Debug\Samkar.g.resources
+C:\Users\Rafael\Documents\Visual Studio 2010\Projects\Samkar\Samkar\obj\x86\Debug\Samkar.Properties.Resources.resources
+C:\Users\Rafael\Documents\Visual Studio 2010\Projects\Samkar\Samkar\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Rafael\Documents\Visual Studio 2010\Projects\Samkar\Samkar\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Rafael\Documents\Visual Studio 2010\Projects\Samkar\Samkar\obj\x86\Debug\Samkar.exe
+C:\Users\Rafael\Documents\Visual Studio 2010\Projects\Samkar\Samkar\obj\x86\Debug\Samkar.pdb
+C:\Users\Rafael\Documents\Visual Studio 2010\Projects\Samkar\Samkar\obj\x86\Debug\App.baml
+C:\Users\Rafael\Documents\Visual Studio 2010\Projects\Samkar\Samkar\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\Rafael\Documents\Visual Studio 2010\Projects\Samkar\Samkar\bin\Debug\office.dll
+C:\Users\Rafael\Documents\Visual Studio 2010\Projects\Samkar\Samkar\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\Rafael\Documents\Visual Studio 2010\Projects\Samkar\Samkar\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Users\Rafael\Documents\Visual Studio 2010\Projects\Samkar\Samkar\bin\Debug\office.xml
+D:\Projects & Samples\Projects\Samkar\Samkar\Samkar\obj\x86\Debug\Samkar.exe
+D:\Projects & Samples\Projects\Samkar\Samkar\Samkar\obj\x86\Debug\Samkar.pdb
+D:\Projects & Samples\Projects\Samkar\Samkar\Samkar\bin\Debug\Samkar.exe
+D:\Projects & Samples\Projects\Samkar\Samkar\Samkar\bin\Debug\Samkar.pdb
+D:\Projects & Samples\Projects\Samkar\Samkar\Samkar\bin\Debug\CustomChromeLibrary.dll
+D:\Projects & Samples\Projects\Samkar\Samkar\Samkar\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\Projects & Samples\Projects\Samkar\Samkar\Samkar\bin\Debug\Microsoft.Windows.Shell.dll
+D:\Projects & Samples\Projects\Samkar\Samkar\Samkar\bin\Debug\Samkar.Helper.dll
+D:\Projects & Samples\Projects\Samkar\Samkar\Samkar\bin\Debug\Samkar.Enums.dll
+D:\Projects & Samples\Projects\Samkar\Samkar\Samkar\bin\Debug\office.dll
+D:\Projects & Samples\Projects\Samkar\Samkar\Samkar\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\Projects & Samples\Projects\Samkar\Samkar\Samkar\bin\Debug\CustomChromeLibrary.pdb
+D:\Projects & Samples\Projects\Samkar\Samkar\Samkar\bin\Debug\Microsoft.Windows.Shell.pdb
+D:\Projects & Samples\Projects\Samkar\Samkar\Samkar\bin\Debug\Samkar.Helper.pdb
+D:\Projects & Samples\Projects\Samkar\Samkar\Samkar\bin\Debug\Microsoft.Office.Interop.Excel.xml
+D:\Projects & Samples\Projects\Samkar\Samkar\Samkar\bin\Debug\Samkar.Enums.pdb
+D:\Projects & Samples\Projects\Samkar\Samkar\Samkar\bin\Debug\office.xml
+D:\Projects & Samples\Projects\Samkar\Samkar\Samkar\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Projects & Samples\Projects\Samkar\Samkar\Samkar\obj\x86\Debug\AboutUs.baml
+D:\Projects & Samples\Projects\Samkar\Samkar\Samkar\obj\x86\Debug\HomePage.baml
+D:\Projects & Samples\Projects\Samkar\Samkar\Samkar\obj\x86\Debug\HomePage_Connectivity.baml
+D:\Projects & Samples\Projects\Samkar\Samkar\Samkar\obj\x86\Debug\HomePage_CustomersUsers.baml
+D:\Projects & Samples\Projects\Samkar\Samkar\Samkar\obj\x86\Debug\Homepage_InventoryPurchases.baml
+D:\Projects & Samples\Projects\Samkar\Samkar\Samkar\obj\x86\Debug\HomePage_SalesFinance.baml
+D:\Projects & Samples\Projects\Samkar\Samkar\Samkar\obj\x86\Debug\LoginBox.baml
+D:\Projects & Samples\Projects\Samkar\Samkar\Samkar\obj\x86\Debug\LoginWindow.baml
+D:\Projects & Samples\Projects\Samkar\Samkar\Samkar\obj\x86\Debug\sAutoGenPOPage1.baml
+D:\Projects & Samples\Projects\Samkar\Samkar\Samkar\obj\x86\Debug\sAutoGenPOStart.baml
+D:\Projects & Samples\Projects\Samkar\Samkar\Samkar\obj\x86\Debug\sBackup.baml
+D:\Projects & Samples\Projects\Samkar\Samkar\Samkar\obj\x86\Debug\sEndOfDay.baml
+D:\Projects & Samples\Projects\Samkar\Samkar\Samkar\obj\x86\Debug\sExportWizard.baml
+D:\Projects & Samples\Projects\Samkar\Samkar\Samkar\obj\x86\Debug\sExportWizardPage2.baml
+D:\Projects & Samples\Projects\Samkar\Samkar\Samkar\obj\x86\Debug\sExportWizardPage3.baml
+D:\Projects & Samples\Projects\Samkar\Samkar\Samkar\obj\x86\Debug\sFinancialsProfitLoss.baml
+D:\Projects & Samples\Projects\Samkar\Samkar\Samkar\obj\x86\Debug\sFindFromGrid.baml
+D:\Projects & Samples\Projects\Samkar\Samkar\Samkar\obj\x86\Debug\sGetterDiscTaxAmt.baml
+D:\Projects & Samples\Projects\Samkar\Samkar\Samkar\obj\x86\Debug\sImportWizard.baml
+D:\Projects & Samples\Projects\Samkar\Samkar\Samkar\obj\x86\Debug\sImportWizardPage1.baml
+D:\Projects & Samples\Projects\Samkar\Samkar\Samkar\obj\x86\Debug\sImportWizardPage2.baml
+D:\Projects & Samples\Projects\Samkar\Samkar\Samkar\obj\x86\Debug\sImportWizardPage4.baml
+D:\Projects & Samples\Projects\Samkar\Samkar\Samkar\obj\x86\Debug\sImportWizardStartPage.baml
+D:\Projects & Samples\Projects\Samkar\Samkar\Samkar\obj\x86\Debug\sModifyCustomer.baml
+D:\Projects & Samples\Projects\Samkar\Samkar\Samkar\obj\x86\Debug\sNewCostAdjustment.baml
+D:\Projects & Samples\Projects\Samkar\Samkar\Samkar\obj\x86\Debug\sNewCustomer.baml
+D:\Projects & Samples\Projects\Samkar\Samkar\Samkar\obj\x86\Debug\sNewCustomerPayment.baml
+D:\Projects & Samples\Projects\Samkar\Samkar\Samkar\obj\x86\Debug\sNewItem.baml
+D:\Projects & Samples\Projects\Samkar\Samkar\Samkar\obj\x86\Debug\sNewQtyAdjustment.baml
+D:\Projects & Samples\Projects\Samkar\Samkar\Samkar\obj\x86\Debug\sNewVendor.baml
+D:\Projects & Samples\Projects\Samkar\Samkar\Samkar\obj\x86\Debug\sNewVendorPayment.baml
+D:\Projects & Samples\Projects\Samkar\Samkar\Samkar\obj\x86\Debug\sOptions.baml
+D:\Projects & Samples\Projects\Samkar\Samkar\Samkar\obj\x86\Debug\sPriceAdjustment.baml
+D:\Projects & Samples\Projects\Samkar\Samkar\Samkar\obj\x86\Debug\sPurchaseOrder.baml
+D:\Projects & Samples\Projects\Samkar\Samkar\Samkar\obj\x86\Debug\sQuickViewReport.baml
+D:\Projects & Samples\Projects\Samkar\Samkar\Samkar\obj\x86\Debug\sReceiveNewItems.baml
+D:\Projects & Samples\Projects\Samkar\Samkar\Samkar\obj\x86\Debug\sRemoveCustomer.baml
+D:\Projects & Samples\Projects\Samkar\Samkar\Samkar\obj\x86\Debug\sReportCenter.baml
+D:\Projects & Samples\Projects\Samkar\Samkar\Samkar\obj\x86\Debug\sReportViewer.baml
+D:\Projects & Samples\Projects\Samkar\Samkar\Samkar\obj\x86\Debug\sRestore.baml
+D:\Projects & Samples\Projects\Samkar\Samkar\Samkar\obj\x86\Debug\sReturnHistory.baml
+D:\Projects & Samples\Projects\Samkar\Samkar\Samkar\obj\x86\Debug\sSalesHistory.baml
+D:\Projects & Samples\Projects\Samkar\Samkar\Samkar\obj\x86\Debug\sSalesResport.baml
+D:\Projects & Samples\Projects\Samkar\Samkar\Samkar\obj\x86\Debug\sSecurity.baml
+D:\Projects & Samples\Projects\Samkar\Samkar\Samkar\obj\x86\Debug\sStockTaking.baml
+D:\Projects & Samples\Projects\Samkar\Samkar\Samkar\obj\x86\Debug\AboutUs.g.cs
+D:\Projects & Samples\Projects\Samkar\Samkar\Samkar\obj\x86\Debug\HomePage.g.cs
+D:\Projects & Samples\Projects\Samkar\Samkar\Samkar\obj\x86\Debug\HomePage_Connectivity.g.cs
+D:\Projects & Samples\Projects\Samkar\Samkar\Samkar\obj\x86\Debug\HomePage_CustomersUsers.g.cs
+D:\Projects & Samples\Projects\Samkar\Samkar\Samkar\obj\x86\Debug\Homepage_InventoryPurchases.g.cs
+D:\Projects & Samples\Projects\Samkar\Samkar\Samkar\obj\x86\Debug\HomePage_SalesFinance.g.cs
+D:\Projects & Samples\Projects\Samkar\Samkar\Samkar\obj\x86\Debug\LoginBox.g.cs
+D:\Projects & Samples\Projects\Samkar\Samkar\Samkar\obj\x86\Debug\LoginWindow.g.cs
+D:\Projects & Samples\Projects\Samkar\Samkar\Samkar\obj\x86\Debug\MainWindow.g.cs
+D:\Projects & Samples\Projects\Samkar\Samkar\Samkar\obj\x86\Debug\sAutoGenPOPage1.g.cs
+D:\Projects & Samples\Projects\Samkar\Samkar\Samkar\obj\x86\Debug\sAutoGenPOStart.g.cs
+D:\Projects & Samples\Projects\Samkar\Samkar\Samkar\obj\x86\Debug\sBackup.g.cs
+D:\Projects & Samples\Projects\Samkar\Samkar\Samkar\obj\x86\Debug\sEndOfDay.g.cs
+D:\Projects & Samples\Projects\Samkar\Samkar\Samkar\obj\x86\Debug\sExportWizard.g.cs
+D:\Projects & Samples\Projects\Samkar\Samkar\Samkar\obj\x86\Debug\sExportWizardPage1.g.cs
+D:\Projects & Samples\Projects\Samkar\Samkar\Samkar\obj\x86\Debug\sExportWizardPage2.g.cs
+D:\Projects & Samples\Projects\Samkar\Samkar\Samkar\obj\x86\Debug\sExportWizardPage3.g.cs
+D:\Projects & Samples\Projects\Samkar\Samkar\Samkar\obj\x86\Debug\sFinancialsProfitLoss.g.cs
+D:\Projects & Samples\Projects\Samkar\Samkar\Samkar\obj\x86\Debug\sFindFromGrid.g.cs
+D:\Projects & Samples\Projects\Samkar\Samkar\Samkar\obj\x86\Debug\sGetterDiscTaxAmt.g.cs
+D:\Projects & Samples\Projects\Samkar\Samkar\Samkar\obj\x86\Debug\sImportWizard.g.cs
+D:\Projects & Samples\Projects\Samkar\Samkar\Samkar\obj\x86\Debug\sImportWizardPage1.g.cs
+D:\Projects & Samples\Projects\Samkar\Samkar\Samkar\obj\x86\Debug\sImportWizardPage2.g.cs
+D:\Projects & Samples\Projects\Samkar\Samkar\Samkar\obj\x86\Debug\sImportWizardPage3.g.cs
+D:\Projects & Samples\Projects\Samkar\Samkar\Samkar\obj\x86\Debug\sImportWizardPage4.g.cs
+D:\Projects & Samples\Projects\Samkar\Samkar\Samkar\obj\x86\Debug\sImportWizardStartPage.g.cs
+D:\Projects & Samples\Projects\Samkar\Samkar\Samkar\obj\x86\Debug\sModifyCustomer.g.cs
+D:\Projects & Samples\Projects\Samkar\Samkar\Samkar\obj\x86\Debug\sNewCostAdjustment.g.cs
+D:\Projects & Samples\Projects\Samkar\Samkar\Samkar\obj\x86\Debug\sNewCustomer.g.cs
+D:\Projects & Samples\Projects\Samkar\Samkar\Samkar\obj\x86\Debug\sNewCustomerPayment.g.cs
+D:\Projects & Samples\Projects\Samkar\Samkar\Samkar\obj\x86\Debug\sNewItem.g.cs
+D:\Projects & Samples\Projects\Samkar\Samkar\Samkar\obj\x86\Debug\sNewPayout.g.cs
+D:\Projects & Samples\Projects\Samkar\Samkar\Samkar\obj\x86\Debug\sNewQtyAdjustment.g.cs
+D:\Projects & Samples\Projects\Samkar\Samkar\Samkar\obj\x86\Debug\sNewReturn.g.cs
+D:\Projects & Samples\Projects\Samkar\Samkar\Samkar\obj\x86\Debug\sNewSale.g.cs
+D:\Projects & Samples\Projects\Samkar\Samkar\Samkar\obj\x86\Debug\sNewVendor.g.cs
+D:\Projects & Samples\Projects\Samkar\Samkar\Samkar\obj\x86\Debug\sNewVendorPayment.g.cs
+D:\Projects & Samples\Projects\Samkar\Samkar\Samkar\obj\x86\Debug\sOptions.g.cs
+D:\Projects & Samples\Projects\Samkar\Samkar\Samkar\obj\x86\Debug\sPriceAdjustment.g.cs
+D:\Projects & Samples\Projects\Samkar\Samkar\Samkar\obj\x86\Debug\sPurchaseOrder.g.cs
+D:\Projects & Samples\Projects\Samkar\Samkar\Samkar\obj\x86\Debug\sQuickViewReport.g.cs
+D:\Projects & Samples\Projects\Samkar\Samkar\Samkar\obj\x86\Debug\sReceiveNewItems.g.cs
+D:\Projects & Samples\Projects\Samkar\Samkar\Samkar\obj\x86\Debug\sRemoveCustomer.g.cs
+D:\Projects & Samples\Projects\Samkar\Samkar\Samkar\obj\x86\Debug\sReportCenter.g.cs
+D:\Projects & Samples\Projects\Samkar\Samkar\Samkar\obj\x86\Debug\sReportViewer.g.cs
+D:\Projects & Samples\Projects\Samkar\Samkar\Samkar\obj\x86\Debug\sRestore.g.cs
+D:\Projects & Samples\Projects\Samkar\Samkar\Samkar\obj\x86\Debug\sReturnHistory.g.cs
+D:\Projects & Samples\Projects\Samkar\Samkar\Samkar\obj\x86\Debug\sSalesHistory.g.cs
+D:\Projects & Samples\Projects\Samkar\Samkar\Samkar\obj\x86\Debug\sSalesResport.g.cs
+D:\Projects & Samples\Projects\Samkar\Samkar\Samkar\obj\x86\Debug\sSecurity.g.cs
+D:\Projects & Samples\Projects\Samkar\Samkar\Samkar\obj\x86\Debug\sStockTaking.g.cs
+D:\Projects & Samples\Projects\Samkar\Samkar\Samkar\obj\x86\Debug\App.g.cs
+D:\Projects & Samples\Projects\Samkar\Samkar\Samkar\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Projects & Samples\Projects\Samkar\Samkar\Samkar\obj\x86\Debug\Samkar_MarkupCompile.cache
+D:\Projects & Samples\Projects\Samkar\Samkar\Samkar\obj\x86\Debug\Samkar_MarkupCompile.lref
+D:\Projects & Samples\Projects\Samkar\Samkar\Samkar\obj\x86\Debug\App.baml
+D:\Projects & Samples\Projects\Samkar\Samkar\Samkar\obj\x86\Debug\MainWindow.baml
+D:\Projects & Samples\Projects\Samkar\Samkar\Samkar\obj\x86\Debug\sExportWizardPage1.baml
+D:\Projects & Samples\Projects\Samkar\Samkar\Samkar\obj\x86\Debug\sImportWizardPage3.baml
+D:\Projects & Samples\Projects\Samkar\Samkar\Samkar\obj\x86\Debug\sNewPayout.baml
+D:\Projects & Samples\Projects\Samkar\Samkar\Samkar\obj\x86\Debug\sNewReturn.baml
+D:\Projects & Samples\Projects\Samkar\Samkar\Samkar\obj\x86\Debug\sNewSale.baml
+D:\Projects & Samples\Projects\Samkar\Samkar\Samkar\obj\x86\Debug\Samkar.g.resources
+D:\Projects & Samples\Projects\Samkar\Samkar\Samkar\obj\x86\Debug\Samkar.Properties.Resources.resources
+D:\Projects & Samples\Projects\Samkar\Samkar\Samkar\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Projects & Samples\Projects\Samkar\Samkar\Samkar\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Projects & Samples\Projects\Samkar\Samkar\Samkar\bin\Debug\Samkar.Permissions.dll
+D:\Projects & Samples\Projects\Samkar\Samkar\Samkar\bin\Debug\Samkar.Permissions.pdb
+D:\Projects & Samples\Projects\Samkar\Samkar\Samkar\obj\x86\Debug\sAddNewUser.baml
+D:\Projects & Samples\Projects\Samkar\Samkar\Samkar\obj\x86\Debug\sModifyUser.baml
+D:\Projects & Samples\Projects\Samkar\Samkar\Samkar\obj\x86\Debug\sRemoveUser.baml
+D:\Projects & Samples\Projects\Samkar\Samkar\Samkar\obj\x86\Debug\sAddNewUser.g.cs
+D:\Projects & Samples\Projects\Samkar\Samkar\Samkar\obj\x86\Debug\sModifyUser.g.cs
+D:\Projects & Samples\Projects\Samkar\Samkar\Samkar\obj\x86\Debug\sRemoveUser.g.cs
+D:\Projects & Samples\Projects\Samkar\Samkar\Samkar\obj\x86\Debug\sFindObject.baml
+D:\Projects & Samples\Projects\Samkar\Samkar\Samkar\obj\x86\Debug\sFindObject.g.cs
+D:\Projects & Samples\Projects\Samkar\Samkar\Samkar\bin\Debug\Samkar.exe.config
+D:\Projects & Samples\Projects\Samkar\Samkar\Samkar\bin\Debug\Samkar.Reporting.dll
+D:\Projects & Samples\Projects\Samkar\Samkar\Samkar\bin\Debug\Samkar.Reporting.pdb
+C:\_ADI\JOB\STANDARDCHARTERED_PROJECT\source\Samkar\Samkar\Samkar\Samkar\bin\Debug\Samkar.exe.config
+C:\_ADI\JOB\STANDARDCHARTERED_PROJECT\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\Samkar.exe
+C:\_ADI\JOB\STANDARDCHARTERED_PROJECT\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\Samkar.pdb
+C:\_ADI\JOB\STANDARDCHARTERED_PROJECT\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\Samkar.csprojResolveAssemblyReference.cache
+C:\_ADI\JOB\STANDARDCHARTERED_PROJECT\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\AboutUs.baml
+C:\_ADI\JOB\STANDARDCHARTERED_PROJECT\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\HomePage.baml
+C:\_ADI\JOB\STANDARDCHARTERED_PROJECT\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\HomePage_Connectivity.baml
+C:\_ADI\JOB\STANDARDCHARTERED_PROJECT\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\HomePage_CustomersUsers.baml
+C:\_ADI\JOB\STANDARDCHARTERED_PROJECT\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\Homepage_InventoryPurchases.baml
+C:\_ADI\JOB\STANDARDCHARTERED_PROJECT\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\HomePage_SalesFinance.baml
+C:\_ADI\JOB\STANDARDCHARTERED_PROJECT\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\LoginBox.baml
+C:\_ADI\JOB\STANDARDCHARTERED_PROJECT\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\LoginWindow.baml
+C:\_ADI\JOB\STANDARDCHARTERED_PROJECT\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\sAddNewUser.baml
+C:\_ADI\JOB\STANDARDCHARTERED_PROJECT\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\sAutoGenPOPage1.baml
+C:\_ADI\JOB\STANDARDCHARTERED_PROJECT\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\sAutoGenPOStart.baml
+C:\_ADI\JOB\STANDARDCHARTERED_PROJECT\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\sBackup.baml
+C:\_ADI\JOB\STANDARDCHARTERED_PROJECT\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\sEndOfDay.baml
+C:\_ADI\JOB\STANDARDCHARTERED_PROJECT\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\sExportWizard.baml
+C:\_ADI\JOB\STANDARDCHARTERED_PROJECT\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\sExportWizardPage2.baml
+C:\_ADI\JOB\STANDARDCHARTERED_PROJECT\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\sExportWizardPage3.baml
+C:\_ADI\JOB\STANDARDCHARTERED_PROJECT\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\sFinancialsProfitLoss.baml
+C:\_ADI\JOB\STANDARDCHARTERED_PROJECT\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\sFindFromGrid.baml
+C:\_ADI\JOB\STANDARDCHARTERED_PROJECT\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\sFindObject.baml
+C:\_ADI\JOB\STANDARDCHARTERED_PROJECT\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\sGetterDiscTaxAmt.baml
+C:\_ADI\JOB\STANDARDCHARTERED_PROJECT\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\sImportWizard.baml
+C:\_ADI\JOB\STANDARDCHARTERED_PROJECT\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\sImportWizardPage1.baml
+C:\_ADI\JOB\STANDARDCHARTERED_PROJECT\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\sImportWizardPage2.baml
+C:\_ADI\JOB\STANDARDCHARTERED_PROJECT\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\sImportWizardPage4.baml
+C:\_ADI\JOB\STANDARDCHARTERED_PROJECT\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\sImportWizardStartPage.baml
+C:\_ADI\JOB\STANDARDCHARTERED_PROJECT\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\sModifyCustomer.baml
+C:\_ADI\JOB\STANDARDCHARTERED_PROJECT\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\sModifyUser.baml
+C:\_ADI\JOB\STANDARDCHARTERED_PROJECT\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\sRemoveUser.baml
+C:\_ADI\JOB\STANDARDCHARTERED_PROJECT\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\sNewCostAdjustment.baml
+C:\_ADI\JOB\STANDARDCHARTERED_PROJECT\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\sNewCustomer.baml
+C:\_ADI\JOB\STANDARDCHARTERED_PROJECT\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\sNewCustomerPayment.baml
+C:\_ADI\JOB\STANDARDCHARTERED_PROJECT\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\sNewItem.baml
+C:\_ADI\JOB\STANDARDCHARTERED_PROJECT\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\sNewQtyAdjustment.baml
+C:\_ADI\JOB\STANDARDCHARTERED_PROJECT\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\sNewVendor.baml
+C:\_ADI\JOB\STANDARDCHARTERED_PROJECT\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\sNewVendorPayment.baml
+C:\_ADI\JOB\STANDARDCHARTERED_PROJECT\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\sOptions.baml
+C:\_ADI\JOB\STANDARDCHARTERED_PROJECT\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\sPriceAdjustment.baml
+C:\_ADI\JOB\STANDARDCHARTERED_PROJECT\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\sPurchaseOrder.baml
+C:\_ADI\JOB\STANDARDCHARTERED_PROJECT\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\sQuickViewReport.baml
+C:\_ADI\JOB\STANDARDCHARTERED_PROJECT\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\sReceiveNewItems.baml
+C:\_ADI\JOB\STANDARDCHARTERED_PROJECT\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\sRemoveCustomer.baml
+C:\_ADI\JOB\STANDARDCHARTERED_PROJECT\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\sReportCenter.baml
+C:\_ADI\JOB\STANDARDCHARTERED_PROJECT\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\sReportViewer.baml
+C:\_ADI\JOB\STANDARDCHARTERED_PROJECT\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\sRestore.baml
+C:\_ADI\JOB\STANDARDCHARTERED_PROJECT\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\sReturnHistory.baml
+C:\_ADI\JOB\STANDARDCHARTERED_PROJECT\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\sSalesHistory.baml
+C:\_ADI\JOB\STANDARDCHARTERED_PROJECT\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\sSalesResport.baml
+C:\_ADI\JOB\STANDARDCHARTERED_PROJECT\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\sSecurity.baml
+C:\_ADI\JOB\STANDARDCHARTERED_PROJECT\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\sStockTaking.baml
+C:\_ADI\JOB\STANDARDCHARTERED_PROJECT\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\AboutUs.g.cs
+C:\_ADI\JOB\STANDARDCHARTERED_PROJECT\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\HomePage.g.cs
+C:\_ADI\JOB\STANDARDCHARTERED_PROJECT\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\HomePage_Connectivity.g.cs
+C:\_ADI\JOB\STANDARDCHARTERED_PROJECT\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\HomePage_CustomersUsers.g.cs
+C:\_ADI\JOB\STANDARDCHARTERED_PROJECT\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\Homepage_InventoryPurchases.g.cs
+C:\_ADI\JOB\STANDARDCHARTERED_PROJECT\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\HomePage_SalesFinance.g.cs
+C:\_ADI\JOB\STANDARDCHARTERED_PROJECT\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\LoginBox.g.cs
+C:\_ADI\JOB\STANDARDCHARTERED_PROJECT\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\LoginWindow.g.cs
+C:\_ADI\JOB\STANDARDCHARTERED_PROJECT\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\MainWindow.g.cs
+C:\_ADI\JOB\STANDARDCHARTERED_PROJECT\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\sAddNewUser.g.cs
+C:\_ADI\JOB\STANDARDCHARTERED_PROJECT\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\sAutoGenPOPage1.g.cs
+C:\_ADI\JOB\STANDARDCHARTERED_PROJECT\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\sAutoGenPOStart.g.cs
+C:\_ADI\JOB\STANDARDCHARTERED_PROJECT\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\sBackup.g.cs
+C:\_ADI\JOB\STANDARDCHARTERED_PROJECT\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\sEndOfDay.g.cs
+C:\_ADI\JOB\STANDARDCHARTERED_PROJECT\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\sExportWizard.g.cs
+C:\_ADI\JOB\STANDARDCHARTERED_PROJECT\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\sExportWizardPage1.g.cs
+C:\_ADI\JOB\STANDARDCHARTERED_PROJECT\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\sExportWizardPage2.g.cs
+C:\_ADI\JOB\STANDARDCHARTERED_PROJECT\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\sExportWizardPage3.g.cs
+C:\_ADI\JOB\STANDARDCHARTERED_PROJECT\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\sFinancialsProfitLoss.g.cs
+C:\_ADI\JOB\STANDARDCHARTERED_PROJECT\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\sFindFromGrid.g.cs
+C:\_ADI\JOB\STANDARDCHARTERED_PROJECT\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\sFindObject.g.cs
+C:\_ADI\JOB\STANDARDCHARTERED_PROJECT\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\sGetterDiscTaxAmt.g.cs
+C:\_ADI\JOB\STANDARDCHARTERED_PROJECT\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\sImportWizard.g.cs
+C:\_ADI\JOB\STANDARDCHARTERED_PROJECT\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\sImportWizardPage1.g.cs
+C:\_ADI\JOB\STANDARDCHARTERED_PROJECT\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\sImportWizardPage2.g.cs
+C:\_ADI\JOB\STANDARDCHARTERED_PROJECT\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\sImportWizardPage3.g.cs
+C:\_ADI\JOB\STANDARDCHARTERED_PROJECT\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\sImportWizardPage4.g.cs
+C:\_ADI\JOB\STANDARDCHARTERED_PROJECT\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\sImportWizardStartPage.g.cs
+C:\_ADI\JOB\STANDARDCHARTERED_PROJECT\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\sModifyCustomer.g.cs
+C:\_ADI\JOB\STANDARDCHARTERED_PROJECT\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\sModifyUser.g.cs
+C:\_ADI\JOB\STANDARDCHARTERED_PROJECT\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\sRemoveUser.g.cs
+C:\_ADI\JOB\STANDARDCHARTERED_PROJECT\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\sNewCostAdjustment.g.cs
+C:\_ADI\JOB\STANDARDCHARTERED_PROJECT\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\sNewCustomer.g.cs
+C:\_ADI\JOB\STANDARDCHARTERED_PROJECT\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\sNewCustomerPayment.g.cs
+C:\_ADI\JOB\STANDARDCHARTERED_PROJECT\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\sNewItem.g.cs
+C:\_ADI\JOB\STANDARDCHARTERED_PROJECT\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\sNewPayout.g.cs
+C:\_ADI\JOB\STANDARDCHARTERED_PROJECT\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\sNewQtyAdjustment.g.cs
+C:\_ADI\JOB\STANDARDCHARTERED_PROJECT\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\sNewReturn.g.cs
+C:\_ADI\JOB\STANDARDCHARTERED_PROJECT\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\sNewSale.g.cs
+C:\_ADI\JOB\STANDARDCHARTERED_PROJECT\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\sNewVendor.g.cs
+C:\_ADI\JOB\STANDARDCHARTERED_PROJECT\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\sNewVendorPayment.g.cs
+C:\_ADI\JOB\STANDARDCHARTERED_PROJECT\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\sOptions.g.cs
+C:\_ADI\JOB\STANDARDCHARTERED_PROJECT\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\sPriceAdjustment.g.cs
+C:\_ADI\JOB\STANDARDCHARTERED_PROJECT\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\sPurchaseOrder.g.cs
+C:\_ADI\JOB\STANDARDCHARTERED_PROJECT\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\sQuickViewReport.g.cs
+C:\_ADI\JOB\STANDARDCHARTERED_PROJECT\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\sReceiveNewItems.g.cs
+C:\_ADI\JOB\STANDARDCHARTERED_PROJECT\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\sRemoveCustomer.g.cs
+C:\_ADI\JOB\STANDARDCHARTERED_PROJECT\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\sReportCenter.g.cs
+C:\_ADI\JOB\STANDARDCHARTERED_PROJECT\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\sReportViewer.g.cs
+C:\_ADI\JOB\STANDARDCHARTERED_PROJECT\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\sRestore.g.cs
+C:\_ADI\JOB\STANDARDCHARTERED_PROJECT\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\sReturnHistory.g.cs
+C:\_ADI\JOB\STANDARDCHARTERED_PROJECT\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\sSalesHistory.g.cs
+C:\_ADI\JOB\STANDARDCHARTERED_PROJECT\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\sSalesResport.g.cs
+C:\_ADI\JOB\STANDARDCHARTERED_PROJECT\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\sSecurity.g.cs
+C:\_ADI\JOB\STANDARDCHARTERED_PROJECT\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\sStockTaking.g.cs
+C:\_ADI\JOB\STANDARDCHARTERED_PROJECT\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\App.g.cs
+C:\_ADI\JOB\STANDARDCHARTERED_PROJECT\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\_ADI\JOB\STANDARDCHARTERED_PROJECT\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\Samkar_MarkupCompile.cache
+C:\_ADI\JOB\STANDARDCHARTERED_PROJECT\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\Samkar_MarkupCompile.lref
+C:\_ADI\JOB\STANDARDCHARTERED_PROJECT\source\Samkar\Samkar\Samkar\Samkar\bin\Debug\Samkar.exe
+C:\_ADI\JOB\STANDARDCHARTERED_PROJECT\source\Samkar\Samkar\Samkar\Samkar\bin\Debug\Samkar.pdb
+C:\_ADI\JOB\STANDARDCHARTERED_PROJECT\source\Samkar\Samkar\Samkar\Samkar\bin\Debug\CustomChromeLibrary.dll
+C:\_ADI\JOB\STANDARDCHARTERED_PROJECT\source\Samkar\Samkar\Samkar\Samkar\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\_ADI\JOB\STANDARDCHARTERED_PROJECT\source\Samkar\Samkar\Samkar\Samkar\bin\Debug\Microsoft.Windows.Shell.dll
+C:\_ADI\JOB\STANDARDCHARTERED_PROJECT\source\Samkar\Samkar\Samkar\Samkar\bin\Debug\Samkar.Enums.dll
+C:\_ADI\JOB\STANDARDCHARTERED_PROJECT\source\Samkar\Samkar\Samkar\Samkar\bin\Debug\Samkar.Helper.dll
+C:\_ADI\JOB\STANDARDCHARTERED_PROJECT\source\Samkar\Samkar\Samkar\Samkar\bin\Debug\Samkar.Permissions.dll
+C:\_ADI\JOB\STANDARDCHARTERED_PROJECT\source\Samkar\Samkar\Samkar\Samkar\bin\Debug\Samkar.Reporting.dll
+C:\_ADI\JOB\STANDARDCHARTERED_PROJECT\source\Samkar\Samkar\Samkar\Samkar\bin\Debug\office.dll
+C:\_ADI\JOB\STANDARDCHARTERED_PROJECT\source\Samkar\Samkar\Samkar\Samkar\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\_ADI\JOB\STANDARDCHARTERED_PROJECT\source\Samkar\Samkar\Samkar\Samkar\bin\Debug\CustomChromeLibrary.pdb
+C:\_ADI\JOB\STANDARDCHARTERED_PROJECT\source\Samkar\Samkar\Samkar\Samkar\bin\Debug\Microsoft.Windows.Shell.pdb
+C:\_ADI\JOB\STANDARDCHARTERED_PROJECT\source\Samkar\Samkar\Samkar\Samkar\bin\Debug\Samkar.Enums.pdb
+C:\_ADI\JOB\STANDARDCHARTERED_PROJECT\source\Samkar\Samkar\Samkar\Samkar\bin\Debug\Samkar.Helper.pdb
+C:\_ADI\JOB\STANDARDCHARTERED_PROJECT\source\Samkar\Samkar\Samkar\Samkar\bin\Debug\Samkar.Permissions.pdb
+C:\_ADI\JOB\STANDARDCHARTERED_PROJECT\source\Samkar\Samkar\Samkar\Samkar\bin\Debug\Samkar.Reporting.pdb
+C:\_ADI\JOB\STANDARDCHARTERED_PROJECT\source\Samkar\Samkar\Samkar\Samkar\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\_ADI\JOB\STANDARDCHARTERED_PROJECT\source\Samkar\Samkar\Samkar\Samkar\bin\Debug\office.xml
+C:\_ADI\JOB\STANDARDCHARTERED_PROJECT\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\App.baml
+C:\_ADI\JOB\STANDARDCHARTERED_PROJECT\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\MainWindow.baml
+C:\_ADI\JOB\STANDARDCHARTERED_PROJECT\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\sExportWizardPage1.baml
+C:\_ADI\JOB\STANDARDCHARTERED_PROJECT\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\sImportWizardPage3.baml
+C:\_ADI\JOB\STANDARDCHARTERED_PROJECT\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\sNewPayout.baml
+C:\_ADI\JOB\STANDARDCHARTERED_PROJECT\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\sNewReturn.baml
+C:\_ADI\JOB\STANDARDCHARTERED_PROJECT\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\sNewSale.baml
+C:\_ADI\JOB\STANDARDCHARTERED_PROJECT\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\Samkar.g.resources
+C:\_ADI\JOB\STANDARDCHARTERED_PROJECT\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\Samkar.Properties.Resources.resources
+C:\_ADI\JOB\STANDARDCHARTERED_PROJECT\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\Samkar.csproj.GenerateResource.Cache
+E:\Code.id\Standart Chartered Documents\source\Samkar\Samkar\Samkar\Samkar\bin\Debug\Samkar.exe.config
+E:\Code.id\Standart Chartered Documents\source\Samkar\Samkar\Samkar\Samkar\bin\Debug\Samkar.exe
+E:\Code.id\Standart Chartered Documents\source\Samkar\Samkar\Samkar\Samkar\bin\Debug\Samkar.pdb
+E:\Code.id\Standart Chartered Documents\source\Samkar\Samkar\Samkar\Samkar\bin\Debug\CustomChromeLibrary.dll
+E:\Code.id\Standart Chartered Documents\source\Samkar\Samkar\Samkar\Samkar\bin\Debug\Microsoft.Office.Interop.Excel.dll
+E:\Code.id\Standart Chartered Documents\source\Samkar\Samkar\Samkar\Samkar\bin\Debug\Microsoft.Windows.Shell.dll
+E:\Code.id\Standart Chartered Documents\source\Samkar\Samkar\Samkar\Samkar\bin\Debug\Samkar.Enums.dll
+E:\Code.id\Standart Chartered Documents\source\Samkar\Samkar\Samkar\Samkar\bin\Debug\Samkar.Helper.dll
+E:\Code.id\Standart Chartered Documents\source\Samkar\Samkar\Samkar\Samkar\bin\Debug\Samkar.Permissions.dll
+E:\Code.id\Standart Chartered Documents\source\Samkar\Samkar\Samkar\Samkar\bin\Debug\Samkar.Reporting.dll
+E:\Code.id\Standart Chartered Documents\source\Samkar\Samkar\Samkar\Samkar\bin\Debug\office.dll
+E:\Code.id\Standart Chartered Documents\source\Samkar\Samkar\Samkar\Samkar\bin\Debug\Microsoft.Vbe.Interop.dll
+E:\Code.id\Standart Chartered Documents\source\Samkar\Samkar\Samkar\Samkar\bin\Debug\CustomChromeLibrary.pdb
+E:\Code.id\Standart Chartered Documents\source\Samkar\Samkar\Samkar\Samkar\bin\Debug\Microsoft.Windows.Shell.pdb
+E:\Code.id\Standart Chartered Documents\source\Samkar\Samkar\Samkar\Samkar\bin\Debug\Samkar.Enums.pdb
+E:\Code.id\Standart Chartered Documents\source\Samkar\Samkar\Samkar\Samkar\bin\Debug\Samkar.Helper.pdb
+E:\Code.id\Standart Chartered Documents\source\Samkar\Samkar\Samkar\Samkar\bin\Debug\Samkar.Permissions.pdb
+E:\Code.id\Standart Chartered Documents\source\Samkar\Samkar\Samkar\Samkar\bin\Debug\Samkar.Reporting.pdb
+E:\Code.id\Standart Chartered Documents\source\Samkar\Samkar\Samkar\Samkar\bin\Debug\Microsoft.Office.Interop.Excel.xml
+E:\Code.id\Standart Chartered Documents\source\Samkar\Samkar\Samkar\Samkar\bin\Debug\office.xml
+E:\Code.id\Standart Chartered Documents\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Code.id\Standart Chartered Documents\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\AboutUs.baml
+E:\Code.id\Standart Chartered Documents\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\HomePage.baml
+E:\Code.id\Standart Chartered Documents\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\HomePage_Connectivity.baml
+E:\Code.id\Standart Chartered Documents\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\HomePage_CustomersUsers.baml
+E:\Code.id\Standart Chartered Documents\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\Homepage_InventoryPurchases.baml
+E:\Code.id\Standart Chartered Documents\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\HomePage_SalesFinance.baml
+E:\Code.id\Standart Chartered Documents\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\LoginBox.baml
+E:\Code.id\Standart Chartered Documents\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\LoginWindow.baml
+E:\Code.id\Standart Chartered Documents\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\sAddNewUser.baml
+E:\Code.id\Standart Chartered Documents\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\sAutoGenPOPage1.baml
+E:\Code.id\Standart Chartered Documents\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\sAutoGenPOStart.baml
+E:\Code.id\Standart Chartered Documents\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\sBackup.baml
+E:\Code.id\Standart Chartered Documents\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\sEndOfDay.baml
+E:\Code.id\Standart Chartered Documents\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\sExportWizard.baml
+E:\Code.id\Standart Chartered Documents\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\sExportWizardPage2.baml
+E:\Code.id\Standart Chartered Documents\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\sExportWizardPage3.baml
+E:\Code.id\Standart Chartered Documents\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\sFinancialsProfitLoss.baml
+E:\Code.id\Standart Chartered Documents\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\sFindFromGrid.baml
+E:\Code.id\Standart Chartered Documents\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\sFindObject.baml
+E:\Code.id\Standart Chartered Documents\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\sGetterDiscTaxAmt.baml
+E:\Code.id\Standart Chartered Documents\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\sImportWizard.baml
+E:\Code.id\Standart Chartered Documents\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\sImportWizardPage1.baml
+E:\Code.id\Standart Chartered Documents\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\sImportWizardPage2.baml
+E:\Code.id\Standart Chartered Documents\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\sImportWizardPage4.baml
+E:\Code.id\Standart Chartered Documents\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\sImportWizardStartPage.baml
+E:\Code.id\Standart Chartered Documents\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\sModifyCustomer.baml
+E:\Code.id\Standart Chartered Documents\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\sModifyUser.baml
+E:\Code.id\Standart Chartered Documents\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\sRemoveUser.baml
+E:\Code.id\Standart Chartered Documents\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\sNewCostAdjustment.baml
+E:\Code.id\Standart Chartered Documents\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\sNewCustomer.baml
+E:\Code.id\Standart Chartered Documents\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\sNewCustomerPayment.baml
+E:\Code.id\Standart Chartered Documents\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\sNewItem.baml
+E:\Code.id\Standart Chartered Documents\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\sNewQtyAdjustment.baml
+E:\Code.id\Standart Chartered Documents\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\sNewVendor.baml
+E:\Code.id\Standart Chartered Documents\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\sNewVendorPayment.baml
+E:\Code.id\Standart Chartered Documents\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\sOptions.baml
+E:\Code.id\Standart Chartered Documents\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\sPriceAdjustment.baml
+E:\Code.id\Standart Chartered Documents\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\sPurchaseOrder.baml
+E:\Code.id\Standart Chartered Documents\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\sQuickViewReport.baml
+E:\Code.id\Standart Chartered Documents\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\sReceiveNewItems.baml
+E:\Code.id\Standart Chartered Documents\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\sRemoveCustomer.baml
+E:\Code.id\Standart Chartered Documents\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\sReportCenter.baml
+E:\Code.id\Standart Chartered Documents\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\sReportViewer.baml
+E:\Code.id\Standart Chartered Documents\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\sRestore.baml
+E:\Code.id\Standart Chartered Documents\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\sReturnHistory.baml
+E:\Code.id\Standart Chartered Documents\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\sSalesHistory.baml
+E:\Code.id\Standart Chartered Documents\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\sSalesResport.baml
+E:\Code.id\Standart Chartered Documents\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\sSecurity.baml
+E:\Code.id\Standart Chartered Documents\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\sStockTaking.baml
+E:\Code.id\Standart Chartered Documents\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\AboutUs.g.cs
+E:\Code.id\Standart Chartered Documents\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\HomePage.g.cs
+E:\Code.id\Standart Chartered Documents\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\HomePage_Connectivity.g.cs
+E:\Code.id\Standart Chartered Documents\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\HomePage_CustomersUsers.g.cs
+E:\Code.id\Standart Chartered Documents\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\Homepage_InventoryPurchases.g.cs
+E:\Code.id\Standart Chartered Documents\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\HomePage_SalesFinance.g.cs
+E:\Code.id\Standart Chartered Documents\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\LoginBox.g.cs
+E:\Code.id\Standart Chartered Documents\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\LoginWindow.g.cs
+E:\Code.id\Standart Chartered Documents\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\MainWindow.g.cs
+E:\Code.id\Standart Chartered Documents\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\sAddNewUser.g.cs
+E:\Code.id\Standart Chartered Documents\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\sAutoGenPOPage1.g.cs
+E:\Code.id\Standart Chartered Documents\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\sAutoGenPOStart.g.cs
+E:\Code.id\Standart Chartered Documents\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\sBackup.g.cs
+E:\Code.id\Standart Chartered Documents\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\sEndOfDay.g.cs
+E:\Code.id\Standart Chartered Documents\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\sExportWizard.g.cs
+E:\Code.id\Standart Chartered Documents\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\sExportWizardPage1.g.cs
+E:\Code.id\Standart Chartered Documents\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\sExportWizardPage2.g.cs
+E:\Code.id\Standart Chartered Documents\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\sExportWizardPage3.g.cs
+E:\Code.id\Standart Chartered Documents\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\sFinancialsProfitLoss.g.cs
+E:\Code.id\Standart Chartered Documents\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\sFindFromGrid.g.cs
+E:\Code.id\Standart Chartered Documents\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\sFindObject.g.cs
+E:\Code.id\Standart Chartered Documents\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\sGetterDiscTaxAmt.g.cs
+E:\Code.id\Standart Chartered Documents\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\sImportWizard.g.cs
+E:\Code.id\Standart Chartered Documents\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\sImportWizardPage1.g.cs
+E:\Code.id\Standart Chartered Documents\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\sImportWizardPage2.g.cs
+E:\Code.id\Standart Chartered Documents\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\sImportWizardPage3.g.cs
+E:\Code.id\Standart Chartered Documents\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\sImportWizardPage4.g.cs
+E:\Code.id\Standart Chartered Documents\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\sImportWizardStartPage.g.cs
+E:\Code.id\Standart Chartered Documents\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\sModifyCustomer.g.cs
+E:\Code.id\Standart Chartered Documents\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\sModifyUser.g.cs
+E:\Code.id\Standart Chartered Documents\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\sRemoveUser.g.cs
+E:\Code.id\Standart Chartered Documents\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\sNewCostAdjustment.g.cs
+E:\Code.id\Standart Chartered Documents\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\sNewCustomer.g.cs
+E:\Code.id\Standart Chartered Documents\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\sNewCustomerPayment.g.cs
+E:\Code.id\Standart Chartered Documents\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\sNewItem.g.cs
+E:\Code.id\Standart Chartered Documents\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\sNewPayout.g.cs
+E:\Code.id\Standart Chartered Documents\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\sNewQtyAdjustment.g.cs
+E:\Code.id\Standart Chartered Documents\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\sNewReturn.g.cs
+E:\Code.id\Standart Chartered Documents\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\sNewSale.g.cs
+E:\Code.id\Standart Chartered Documents\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\sNewVendor.g.cs
+E:\Code.id\Standart Chartered Documents\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\sNewVendorPayment.g.cs
+E:\Code.id\Standart Chartered Documents\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\sOptions.g.cs
+E:\Code.id\Standart Chartered Documents\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\sPriceAdjustment.g.cs
+E:\Code.id\Standart Chartered Documents\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\sPurchaseOrder.g.cs
+E:\Code.id\Standart Chartered Documents\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\sQuickViewReport.g.cs
+E:\Code.id\Standart Chartered Documents\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\sReceiveNewItems.g.cs
+E:\Code.id\Standart Chartered Documents\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\sRemoveCustomer.g.cs
+E:\Code.id\Standart Chartered Documents\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\sReportCenter.g.cs
+E:\Code.id\Standart Chartered Documents\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\sReportViewer.g.cs
+E:\Code.id\Standart Chartered Documents\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\sRestore.g.cs
+E:\Code.id\Standart Chartered Documents\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\sReturnHistory.g.cs
+E:\Code.id\Standart Chartered Documents\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\sSalesHistory.g.cs
+E:\Code.id\Standart Chartered Documents\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\sSalesResport.g.cs
+E:\Code.id\Standart Chartered Documents\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\sSecurity.g.cs
+E:\Code.id\Standart Chartered Documents\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\sStockTaking.g.cs
+E:\Code.id\Standart Chartered Documents\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\App.g.cs
+E:\Code.id\Standart Chartered Documents\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Code.id\Standart Chartered Documents\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\Samkar_MarkupCompile.cache
+E:\Code.id\Standart Chartered Documents\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\Samkar_MarkupCompile.lref
+E:\Code.id\Standart Chartered Documents\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\App.baml
+E:\Code.id\Standart Chartered Documents\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\MainWindow.baml
+E:\Code.id\Standart Chartered Documents\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\sExportWizardPage1.baml
+E:\Code.id\Standart Chartered Documents\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\sImportWizardPage3.baml
+E:\Code.id\Standart Chartered Documents\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\sNewPayout.baml
+E:\Code.id\Standart Chartered Documents\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\sNewReturn.baml
+E:\Code.id\Standart Chartered Documents\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\sNewSale.baml
+E:\Code.id\Standart Chartered Documents\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\Samkar.g.resources
+E:\Code.id\Standart Chartered Documents\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\Samkar.Properties.Resources.resources
+E:\Code.id\Standart Chartered Documents\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Code.id\Standart Chartered Documents\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Code.id\Standart Chartered Documents\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\Samkar.exe
+E:\Code.id\Standart Chartered Documents\source\Samkar\Samkar\Samkar\Samkar\obj\x86\Debug\Samkar.pdb

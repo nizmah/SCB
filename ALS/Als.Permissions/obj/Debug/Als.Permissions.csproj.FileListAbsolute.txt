@@ -1,0 +1,52 @@
+E:\Code.id\Standart Chartered Documents\ALS\Als.Permissions\bin\Debug\Als.Permissions.dll
+E:\Code.id\Standart Chartered Documents\ALS\Als.Permissions\bin\Debug\Als.Permissions.pdb
+E:\Code.id\Standart Chartered Documents\ALS\Als.Permissions\bin\Debug\Als.Enums.dll
+E:\Code.id\Standart Chartered Documents\ALS\Als.Permissions\bin\Debug\Als.Helper.dll
+E:\Code.id\Standart Chartered Documents\ALS\Als.Permissions\bin\Debug\Microsoft.Office.Interop.Excel.dll
+E:\Code.id\Standart Chartered Documents\ALS\Als.Permissions\bin\Debug\office.dll
+E:\Code.id\Standart Chartered Documents\ALS\Als.Permissions\bin\Debug\Microsoft.Vbe.Interop.dll
+E:\Code.id\Standart Chartered Documents\ALS\Als.Permissions\bin\Debug\Als.Enums.pdb
+E:\Code.id\Standart Chartered Documents\ALS\Als.Permissions\bin\Debug\Als.Helper.pdb
+E:\Code.id\Standart Chartered Documents\ALS\Als.Permissions\bin\Debug\Microsoft.Office.Interop.Excel.xml
+E:\Code.id\Standart Chartered Documents\ALS\Als.Permissions\bin\Debug\office.xml
+E:\Code.id\Standart Chartered Documents\ALS\Als.Permissions\obj\Debug\ResolveAssemblyReference.cache
+E:\Code.id\Standart Chartered Documents\ALS\Als.Permissions\obj\Debug\Als.Permissions.dll
+E:\Code.id\Standart Chartered Documents\ALS\Als.Permissions\obj\Debug\Als.Permissions.pdb
+C:\_ADI\JOB\STANDARDCHARTERED_PROJECT\ALS 31032015\ALS\Als.Permissions\bin\Debug\Als.Permissions.dll
+C:\_ADI\JOB\STANDARDCHARTERED_PROJECT\ALS 31032015\ALS\Als.Permissions\bin\Debug\Als.Permissions.pdb
+C:\_ADI\JOB\STANDARDCHARTERED_PROJECT\ALS 31032015\ALS\Als.Permissions\bin\Debug\Als.Enums.dll
+C:\_ADI\JOB\STANDARDCHARTERED_PROJECT\ALS 31032015\ALS\Als.Permissions\bin\Debug\Als.Helper.dll
+C:\_ADI\JOB\STANDARDCHARTERED_PROJECT\ALS 31032015\ALS\Als.Permissions\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\_ADI\JOB\STANDARDCHARTERED_PROJECT\ALS 31032015\ALS\Als.Permissions\bin\Debug\Als.Enums.pdb
+C:\_ADI\JOB\STANDARDCHARTERED_PROJECT\ALS 31032015\ALS\Als.Permissions\bin\Debug\Als.Helper.pdb
+C:\_ADI\JOB\STANDARDCHARTERED_PROJECT\ALS 31032015\ALS\Als.Permissions\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\_ADI\JOB\STANDARDCHARTERED_PROJECT\ALS 31032015\ALS\Als.Permissions\obj\Debug\Als.Permissions.csprojResolveAssemblyReference.cache
+C:\_ADI\JOB\STANDARDCHARTERED_PROJECT\ALS 31032015\ALS\Als.Permissions\obj\Debug\Als.Permissions.dll
+C:\_ADI\JOB\STANDARDCHARTERED_PROJECT\ALS 31032015\ALS\Als.Permissions\obj\Debug\Als.Permissions.pdb
+D:\My Project\SCB\ALS 31032015\ALS\Als.Permissions\bin\Debug\Als.Permissions.dll
+D:\My Project\SCB\ALS 31032015\ALS\Als.Permissions\bin\Debug\Als.Permissions.pdb
+D:\My Project\SCB\ALS 31032015\ALS\Als.Permissions\bin\Debug\Als.Enums.dll
+D:\My Project\SCB\ALS 31032015\ALS\Als.Permissions\bin\Debug\Als.Helper.dll
+D:\My Project\SCB\ALS 31032015\ALS\Als.Permissions\bin\Debug\Als.Enums.pdb
+D:\My Project\SCB\ALS 31032015\ALS\Als.Permissions\bin\Debug\Als.Helper.pdb
+D:\My Project\SCB\ALS 31032015\ALS\Als.Permissions\obj\Debug\Als.Permissions.csprojResolveAssemblyReference.cache
+D:\My Project\SCB\ALS 31032015\ALS\Als.Permissions\obj\Debug\Als.Permissions.dll
+D:\My Project\SCB\ALS 31032015\ALS\Als.Permissions\obj\Debug\Als.Permissions.pdb
+D:\My Project\SCB\Backup\20150520\ALS 31032015\ALS\Als.Permissions\bin\Debug\Als.Permissions.dll
+D:\My Project\SCB\Backup\20150520\ALS 31032015\ALS\Als.Permissions\bin\Debug\Als.Permissions.pdb
+D:\My Project\SCB\Backup\20150520\ALS 31032015\ALS\Als.Permissions\bin\Debug\Als.Enums.dll
+D:\My Project\SCB\Backup\20150520\ALS 31032015\ALS\Als.Permissions\bin\Debug\Als.Helper.dll
+D:\My Project\SCB\Backup\20150520\ALS 31032015\ALS\Als.Permissions\bin\Debug\Als.Enums.pdb
+D:\My Project\SCB\Backup\20150520\ALS 31032015\ALS\Als.Permissions\bin\Debug\Als.Helper.pdb
+D:\My Project\SCB\Backup\20150520\ALS 31032015\ALS\Als.Permissions\obj\Debug\Als.Permissions.csprojResolveAssemblyReference.cache
+D:\My Project\SCB\Backup\20150520\ALS 31032015\ALS\Als.Permissions\obj\Debug\Als.Permissions.dll
+D:\My Project\SCB\Backup\20150520\ALS 31032015\ALS\Als.Permissions\obj\Debug\Als.Permissions.pdb
+D:\My Project\SCB\ALS\ALS\Als.Permissions\bin\Debug\Als.Permissions.dll
+D:\My Project\SCB\ALS\ALS\Als.Permissions\bin\Debug\Als.Permissions.pdb
+D:\My Project\SCB\ALS\ALS\Als.Permissions\bin\Debug\Als.Enums.dll
+D:\My Project\SCB\ALS\ALS\Als.Permissions\bin\Debug\Als.Helper.dll
+D:\My Project\SCB\ALS\ALS\Als.Permissions\bin\Debug\Als.Enums.pdb
+D:\My Project\SCB\ALS\ALS\Als.Permissions\bin\Debug\Als.Helper.pdb
+D:\My Project\SCB\ALS\ALS\Als.Permissions\obj\Debug\Als.Permissions.csprojResolveAssemblyReference.cache
+D:\My Project\SCB\ALS\ALS\Als.Permissions\obj\Debug\Als.Permissions.dll
+D:\My Project\SCB\ALS\ALS\Als.Permissions\obj\Debug\Als.Permissions.pdb

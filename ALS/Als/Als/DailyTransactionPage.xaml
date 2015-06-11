@@ -1,0 +1,117 @@
+﻿<Page x:Class="Als.DailyTransactionPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      mc:Ignorable="d" 
+      d:DesignHeight="488" d:DesignWidth="800"
+	  Title="Card">
+       
+        <GroupBox Header="Daily Transaction" HorizontalAlignment="Stretch" Margin="10" Template="{StaticResource OutGroupBox}" Foreground="White">
+        <ScrollViewer VerticalScrollBarVisibility="Auto" VerticalAlignment="Stretch">
+            <StackPanel Orientation="Vertical" >
+
+                <GroupBox Header="" HorizontalAlignment="Stretch" Margin="5" Template="{StaticResource InnerGroupBox}" Foreground="White">
+                    <Grid>
+                        <TabControl HorizontalAlignment="Left" Height="138" Margin="6,5,0,0" VerticalAlignment="Top" Width="716">
+                            <TabItem Header="DUI &amp; LUI">
+                                <Grid Background="#FFE5E5E5">
+                                    <Grid.ColumnDefinitions>
+                                        <ColumnDefinition Width="44*"/>
+                                        <ColumnDefinition Width="309*"/>
+                                    </Grid.ColumnDefinitions>
+                                    <TextBox x:Name="txtupload_dui" HorizontalAlignment="Left" Height="23" Margin="76,10,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="374" Grid.Column="1"/>
+                                    <Button x:Name="btnUpload_dui" Content="SELECT FILE" HorizontalAlignment="Left" Margin="471,10,0,0" VerticalAlignment="Top" Width="107" Click="btnUpload_dui_Click" Grid.Column="1"/>
+                                    <TextBox x:Name="txtupload_lui" HorizontalAlignment="Left" Height="23" Margin="76,40,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="374" Grid.Column="1"/>
+                                    <Button x:Name="btnUpload_lui" Content="SELECT FILE" HorizontalAlignment="Left" Margin="471,40,0,0" VerticalAlignment="Top" Width="107" Click="btnUpload_lui_Click" Grid.Column="1"/>
+                                    <Label Content="File Transaction DUI :" HorizontalAlignment="Left" Margin="10,5,0,0" VerticalAlignment="Top" Width="230" Grid.ColumnSpan="2"/>
+                                    <Label Content="File Transaction LUI :" HorizontalAlignment="Left" Margin="10,36,0,0" VerticalAlignment="Top" Width="225" Grid.ColumnSpan="2"/>
+                                    <Button x:Name="btnProses" Content="PROSES" Margin="471,0,0,10" VerticalAlignment="Bottom" Click="btnProses_Click" HorizontalAlignment="Left" Width="107" Grid.Column="1"/>
+                                </Grid>
+                            </TabItem>
+                            <TabItem Header="REWARD POINT">
+                                <Grid Background="#FFE5E5E5">
+                                    <TextBox x:Name="txtupload_reward" HorizontalAlignment="Left" Height="23" Margin="189,20,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="382"/>
+                                    <Button x:Name="btnUpload_reward" Content="SELECT FILE" HorizontalAlignment="Left" Margin="589,20,0,0" VerticalAlignment="Top" Width="107" Click="btnUpload_reward_Click"/>
+                                    <Label Content="File Transaction Reward Point :" HorizontalAlignment="Left" Margin="10,18,0,0" VerticalAlignment="Top" Width="176" RenderTransformOrigin="0.5,0.5">
+                                        <Label.RenderTransform>
+                                            <TransformGroup>
+                                                <ScaleTransform/>
+                                                <SkewTransform/>
+                                                <RotateTransform Angle="-0.447"/>
+                                                <TranslateTransform/>
+                                            </TransformGroup>
+                                        </Label.RenderTransform>
+                                    </Label>
+                                    <Button x:Name="btnProsesRwd" Content="PROSES" 
+                                            Margin="589,0,0,21" VerticalAlignment="Bottom" 
+                                            Click="btnProsesRwd_Click" HorizontalAlignment="Left" 
+                                            Width="107"/>
+                                </Grid>
+                            </TabItem>
+                        </TabControl>
+                    </Grid>
+
+                </GroupBox>
+
+                <GroupBox Header="Last Uploaded Information" HorizontalAlignment="Stretch" Margin="5" Template="{StaticResource InnerGroupBox}" Foreground="Black">
+
+                    <Grid>
+                        <TabControl HorizontalAlignment="Left" Height="147" Margin="10,5,0,0" VerticalAlignment="Top" Width="712">
+                            <TabItem Header="DUI">
+                                <Grid Background="#FFE5E5E5">
+                                    <Grid.ColumnDefinitions>
+                                        <ColumnDefinition Width="8*"/>
+                                        <ColumnDefinition Width="109*"/>
+                                    </Grid.ColumnDefinitions>
+                                    <Label Content="Last Upload File Name :" HorizontalAlignment="Left" Margin="0,10,0,0" VerticalAlignment="Top" Width="156" Grid.ColumnSpan="2"/>
+                                    <TextBox x:Name="txtLastUploadFileNameDui" HorizontalAlignment="Left" Height="23" Margin="122,10,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="475" Grid.Column="1"/>
+                                    <Label Content="Last Upload Date :" HorizontalAlignment="Left" Margin="1,39,0,0" VerticalAlignment="Top" Width="129" Grid.ColumnSpan="2"/>
+                                    <TextBox x:Name="txtLastUploadDateDui" HorizontalAlignment="Left" Height="23" Margin="122,40,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="173" Grid.Column="1"/>
+                                    <Label Content="Last Upload By :" HorizontalAlignment="Left" Margin="1,69,0,0" VerticalAlignment="Top" Width="129" Grid.ColumnSpan="2"/>
+                                    <TextBox x:Name="txtLastUploadByDui" HorizontalAlignment="Left" Height="23" Margin="122,69,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="173" Grid.Column="1"/>
+                                    <Label Content="Approved By :" HorizontalAlignment="Left" Margin="327,69,0,0" VerticalAlignment="Top" Width="95" Grid.Column="1"/>
+                                    <TextBox x:Name="txtApprovedDateDui" HorizontalAlignment="Left" Height="23" Margin="427,40,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="169" Grid.Column="1"/>
+                                    <Label Content="Approved Date :" HorizontalAlignment="Left" Margin="327,41,0,0" VerticalAlignment="Top" Width="95" Grid.Column="1"/>
+                                    <TextBox x:Name="txtApprovedByDui" HorizontalAlignment="Left" Height="23" Margin="427,69,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="169" Grid.Column="1"/>
+                                </Grid>
+                            </TabItem>
+                            <TabItem Header="LUI">
+                                <Grid Background="#FFE5E5E5">
+                                    <Label Content="Last Upload File Name :" HorizontalAlignment="Left" Margin="0,10,0,0" VerticalAlignment="Top" Width="156"/>
+                                    <TextBox x:Name="txtLastUploadFileNameLui" HorizontalAlignment="Left" Height="23" Margin="170,10,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="475"/>
+                                    <Label Content="Last Upload Date :" HorizontalAlignment="Left" Margin="1,39,0,0" VerticalAlignment="Top" Width="129"/>
+                                    <TextBox x:Name="txtLastUploadDateLui" HorizontalAlignment="Left" Height="23" Margin="170,40,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="173"/>
+                                    <Label Content="Last Upload By :" HorizontalAlignment="Left" Margin="1,69,0,0" VerticalAlignment="Top" Width="129"/>
+                                    <TextBox x:Name="txtLastUploadByLui" HorizontalAlignment="Left" Height="23" Margin="170,69,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="173"/>
+                                    <TextBox x:Name="txtApprovedDateLui" HorizontalAlignment="Left" Height="23" Margin="475,40,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="169"/>
+                                    <TextBox x:Name="txtApprovedByLui" HorizontalAlignment="Left" Height="23" Margin="475,69,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="169"/>
+                                    <Label Content="Approved By :" HorizontalAlignment="Left" Margin="373,70,0,0" VerticalAlignment="Top" Width="95"/>
+                                    <Label Content="Approved Date :" HorizontalAlignment="Left" Margin="373,41,0,0" VerticalAlignment="Top" Width="95"/>
+                                </Grid>
+                            </TabItem>
+                            <TabItem Header="REWARD POINT">
+                                <Grid Background="#FFE5E5E5">
+                                    <Label Content="Last Upload File Name :" HorizontalAlignment="Left" Margin="0,10,0,0" VerticalAlignment="Top" Width="156"/>
+                                    <TextBox x:Name="txtLastUploadFileNameRwd" HorizontalAlignment="Left" Height="23" Margin="170,10,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="475"/>
+                                    <Label Content="Last Upload Date :" HorizontalAlignment="Left" Margin="1,39,0,0" VerticalAlignment="Top" Width="129"/>
+                                    <TextBox x:Name="txtLastUploadDateRwd" HorizontalAlignment="Left" Height="23" Margin="170,40,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="173"/>
+                                    <Label Content="Last Upload By :" HorizontalAlignment="Left" Margin="1,69,0,0" VerticalAlignment="Top" Width="129"/>
+                                    <TextBox x:Name="txtLastUploadByRwd" HorizontalAlignment="Left" Height="23" Margin="170,69,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="173"/>
+                                    <TextBox x:Name="txtApprovedDateRwd" HorizontalAlignment="Left" Height="23" Margin="475,40,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="169"/>
+                                    <TextBox x:Name="txtApprovedByRwd" HorizontalAlignment="Left" Height="23" Margin="475,69,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="169"/>
+                                    <Label Content="Approved By :" HorizontalAlignment="Left" Margin="376,69,0,0" VerticalAlignment="Top" Width="95"/>
+                                    <Label Content="Approved Date :" HorizontalAlignment="Left" Margin="375,41,0,0" VerticalAlignment="Top" Width="95"/>
+                                </Grid>
+                            </TabItem>
+                        </TabControl>
+                        <Button x:Name="GeneratedDraftOutput" Content="GENERATE DRAFT OUTPUT" HorizontalAlignment="Left" Margin="10,170,0,0" VerticalAlignment="Top" Width="280" Click="GeneratedDraftOutput_Click"/>
+                        <Button Content="GENERATE APPROVED OUTPUT" HorizontalAlignment="Left" Margin="442,170,0,0" VerticalAlignment="Top" Width="280" Click="GeneratedApprovedOutput_Click"/>
+                    </Grid>
+
+                </GroupBox>
+            </StackPanel>
+        </ScrollViewer>
+    </GroupBox>
+   
+</Page>

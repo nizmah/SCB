@@ -1,0 +1,78 @@
+﻿<Page x:Class="Als.CardPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      mc:Ignorable="d" 
+      d:DesignHeight="488" d:DesignWidth="800"
+	  Title="Card">
+
+   
+        
+        <GroupBox HorizontalAlignment="Stretch" Margin="10"  VerticalAlignment="Stretch" Template="{StaticResource OutGroupBox}">
+            <GroupBox.Header>
+                <TextBlock Foreground="White" Text="Card List"/>
+            </GroupBox.Header>
+        <ScrollViewer VerticalScrollBarVisibility="Auto" VerticalAlignment="Stretch">
+            <DockPanel Height="Auto" Name="stackPanel1" Width="Auto" LastChildFill="True" >
+
+                <GroupBox DockPanel.Dock="Top" Header="Searching Parameter" HorizontalAlignment="Stretch" Margin="5" Name="groupBox1" Template="{StaticResource InnerGroupBox}">
+                    <Grid>
+                        <TextBox Height="23" HorizontalAlignment="Left" Margin="109,14,0,0" Name="txtBinNo" VerticalAlignment="Top" Width="161" />
+                        <TextBox Height="23" HorizontalAlignment="Left" Margin="109,43,466,0" Name="txtCardName" VerticalAlignment="Top" Width="161" />
+                        <ComboBox Height="23" HorizontalAlignment="Left" Margin="109,73,0,0" Name="cbCardType" VerticalAlignment="Top" Width="161" ItemsSource="{Binding}" DisplayMemberPath="Card_Type_Name"
+                        SelectedValuePath="ID" />
+                        <TextBlock Height="23" HorizontalAlignment="Left" Margin="17,14,0,0" Name="lblBinNi" Text="BIN No" VerticalAlignment="Top" />
+                        <TextBlock Height="23" HorizontalAlignment="Left" Margin="17,43,0,0" Name="lblCardName" Text="Card Name" VerticalAlignment="Top" />
+                        <TextBlock Height="23" HorizontalAlignment="Left" Margin="17,73,0,0" Name="lblCardTypeName" Text="Card Type Name" VerticalAlignment="Top" />
+                        <Button Content="Search" Height="23" Width="100" HorizontalAlignment="Right" Margin="0,128,140,6" Name="btnSearch" VerticalAlignment="Center" Click="btnSearch_Click" />
+                        <Button Content="Reset" Height="23" Width="100" HorizontalAlignment="Right" Margin="0,128,25,6" Name="btnReset" VerticalAlignment="Center" Click="btnReset_Click" />
+                    </Grid>
+                </GroupBox>
+                <GroupBox DockPanel.Dock="Top" Header="Search Result" Template="{StaticResource InnerGroupBox}" HorizontalAlignment="Stretch" Margin="5" Name="groupBox2" VerticalAlignment="Stretch">
+                    <Grid>
+                        <DataGrid AutoGenerateColumns="False" CanUserAddRows="False" CanUserReorderColumns="False" CanUserResizeColumns="False" 
+                          CanUserResizeRows="False" HeadersVisibility="Column" ItemsSource="{Binding}" Margin="10,45,7,10" 
+                          Name="dgCard" RowHeaderWidth="0" SelectionMode="Single" SelectionUnit="FullRow"
+                          HorizontalScrollBarVisibility="Auto" VerticalScrollBarVisibility="Auto" MaxWidth="1000" MaxHeight="1000" HorizontalAlignment="Left" VerticalAlignment="Stretch">
+                            <DataGrid.Columns>
+                                <DataGridTextColumn x:Name="RowNoColumn" Binding="{Binding Path=RowNo}" Header="No" IsReadOnly="True" Width="25" />
+                                <DataGridTextColumn x:Name="BinNoColumn" Binding="{Binding Path=Bin_No}" Header="BIN No" IsReadOnly="True" Width="100" />
+                                <DataGridTextColumn x:Name="CardNameColumn" Binding="{Binding Path=Card_Name}" Header="Card Name" IsReadOnly="True" Width="150" />
+                                <DataGridTextColumn x:Name="CardDescriptionColumn" Binding="{Binding Path=Card_Description}" Header="Card Description" IsReadOnly="True" Width="150" />
+                                <DataGridTextColumn x:Name="CardTypeNameColumn" Binding="{Binding Path=Card_Type_Name}" Header="Card Type Name" IsReadOnly="True" Width="100" />
+                                <DataGridTextColumn x:Name="DigitUniqueCardColumn" Binding="{Binding Path=Digit_Unique_Card}" Header="Digit Unique Card" IsReadOnly="True" Width="120" />
+                                <DataGridTemplateColumn Header="Update" Width="50" >
+                                    <DataGridTemplateColumn.CellTemplate>
+                                        <DataTemplate>
+                                            <Button Style="{StaticResource LinkButton}" Click="Update_Click" HorizontalAlignment="Center" >Update</Button>
+                                        </DataTemplate>
+                                    </DataGridTemplateColumn.CellTemplate>
+                                </DataGridTemplateColumn>
+                                <DataGridTemplateColumn Header="View" Width="50" >
+                                    <DataGridTemplateColumn.CellTemplate>
+                                        <DataTemplate>
+                                            <Button Style="{StaticResource LinkButton}" Click="View_Click" HorizontalAlignment="Center" >View</Button>
+                                        </DataTemplate>
+                                    </DataGridTemplateColumn.CellTemplate>
+                                </DataGridTemplateColumn>
+                                <DataGridTemplateColumn Header="Delete" Width="50" >
+                                    <DataGridTemplateColumn.CellTemplate>
+                                        <DataTemplate>
+                                            <Button Style="{StaticResource LinkButton}" Click="Delete_Click" HorizontalAlignment="Center" >Delete</Button>
+                                        </DataTemplate>
+                                    </DataGridTemplateColumn.CellTemplate>
+                                </DataGridTemplateColumn>
+                            </DataGrid.Columns>
+
+
+                        </DataGrid>
+                        <Button Content="Create" Height="23" HorizontalAlignment="Left" Margin="10,10,0,167" Name="btnCreate" VerticalAlignment="Top" Width="100" Click="btnCreate_Click" />
+                    </Grid>
+                </GroupBox>
+            </DockPanel>
+        </ScrollViewer>
+    </GroupBox>
+       
+   
+</Page>

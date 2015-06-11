@@ -1,0 +1,72 @@
+﻿<Page x:Class="Als.UserRolePage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      mc:Ignorable="d" 
+      d:DesignHeight="488" d:DesignWidth="800"
+	Title="User Role">
+
+    
+        <GroupBox HorizontalAlignment="Stretch" Margin="10"  VerticalAlignment="Stretch" Template="{StaticResource OutGroupBox}">
+            <GroupBox.Header>
+                <TextBlock Text="User Role List" Foreground="White" />
+            </GroupBox.Header>
+        <ScrollViewer VerticalScrollBarVisibility="Auto" VerticalAlignment="Stretch">
+            <DockPanel Height="Auto" Name="stackPanel1" Width="Auto" LastChildFill="True" >
+<TextBlock Height="23" HorizontalAlignment="Left" Margin="0" Name="lblID" VerticalAlignment="Top" Visibility="Hidden" />
+                <GroupBox DockPanel.Dock="Top" Template="{StaticResource InnerGroupBox}" HorizontalAlignment="Stretch" Margin="5" Header="" Name="groupBox1" BorderThickness="0">
+                    <Grid>
+                        <TextBlock Height="23" HorizontalAlignment="Left" Margin="109,14,0,0" Name="lblRoleNameValue" VerticalAlignment="Top" Width="161" />
+                        <TextBlock Height="23" HorizontalAlignment="Left" Margin="17,14,0,0" Name="lblRoleName" Text="Role Name" VerticalAlignment="Top" />
+                    </Grid>
+                </GroupBox>
+                <GroupBox DockPanel.Dock="Top" Header="List of Member" Template="{StaticResource InnerGroupBox}" HorizontalAlignment="Stretch" Margin="5" Name="groupBox2">
+                    <Grid>
+                        <DataGrid AutoGenerateColumns="False" CanUserAddRows="False" CanUserReorderColumns="False" CanUserResizeColumns="False" 
+                          CanUserResizeRows="False" HeadersVisibility="Column" ItemsSource="{Binding}" Margin="10,45,7,10"
+                          Name="dgUserRole" RowHeaderWidth="0" SelectionMode="Single" SelectionUnit="FullRow"
+                          HorizontalScrollBarVisibility="Auto" VerticalScrollBarVisibility="Auto" HorizontalAlignment="Left" VerticalAlignment="Top" Height="110" MaxWidth="600">
+                            <DataGrid.Columns>
+                                <DataGridTextColumn x:Name="RowNoColumn" Binding="{Binding Path=RowNo}" Header="No" IsReadOnly="True" Width="25" />
+                                <DataGridTextColumn x:Name="UserIdColumn" Binding="{Binding Path=User_ID}" Header="User ID" IsReadOnly="True" Width="100" />
+                                <DataGridTextColumn x:Name="UserNameColumn" Binding="{Binding Path=User_Name}" Header="User Name" IsReadOnly="True" Width="150" />
+                                <DataGridTextColumn x:Name="ExtNoColumn" Binding="{Binding Path=User_No_Ext}" Header="No Extention" IsReadOnly="True" Width="100" />
+
+                                <DataGridTemplateColumn Header="Delete" Width="75" >
+                                    <DataGridTemplateColumn.CellTemplate>
+                                        <DataTemplate>
+                                            <Button Style="{StaticResource LinkButton}" HorizontalAlignment="Center" Click="Delete_Click" >Delete</Button>
+                                        </DataTemplate>
+                                    </DataGridTemplateColumn.CellTemplate>
+                                </DataGridTemplateColumn>
+                            </DataGrid.Columns>
+
+
+                        </DataGrid>
+                        <Button Content="Add" Height="23" HorizontalAlignment="Left" Margin="10,10,0,167" Name="btnAdd" VerticalAlignment="Top" Width="100" Click="btnAdd_Click" />
+                    </Grid>
+                </GroupBox>
+                <GroupBox DockPanel.Dock="Top" HorizontalAlignment="Stretch" Margin="5" Header="" Name="gbDetail" Template="{StaticResource InnerGroupBox}" BorderThickness="0">
+                    <Grid Height="120">
+                        <TextBlock Height="23" HorizontalAlignment="Left" Margin="10,10,0,0" Name="lblCreatedBy" Text="Created By" VerticalAlignment="Top" />
+                        <TextBlock Height="23" HorizontalAlignment="Left" Margin="10,40,0,0" Name="lblCreatedDate" Text="Created Date" VerticalAlignment="Top"  />
+                        <TextBlock Height="23" HorizontalAlignment="Left" Margin="10,70,0,0" Name="lblUpdatedBy" Text="Updated By" VerticalAlignment="Top" />
+                        <TextBlock Height="23" HorizontalAlignment="Left" Margin="10,100,0,0" Name="lblUpdatedDate" Text="Updated Date" VerticalAlignment="Top" />
+                        <TextBlock Height="23" HorizontalAlignment="Left" Margin="103,10,0,0" Name="lblCreatedByValue" VerticalAlignment="Top" />
+                        <TextBlock Height="23" HorizontalAlignment="Left" Margin="103,40,0,0" Name="lblCreatedDateValue" VerticalAlignment="Top" />
+                        <TextBlock Height="23" HorizontalAlignment="Left" Margin="103,70,0,0" Name="lblUpdatedByValue" VerticalAlignment="Top" />
+                        <TextBlock Height="23" HorizontalAlignment="Left" Margin="103,100,0,0" Name="lblUpdatedDateValue" VerticalAlignment="Top" />
+                    </Grid>
+                </GroupBox>
+                <StackPanel DockPanel.Dock="Top" Orientation="Horizontal" HorizontalAlignment="Right">
+                    <Button Content="Save" Height="23" Width="100" Margin="0,10,10,0" Name="btnSave" VerticalAlignment="Center" Click="btnSave_Click" />
+                    <Button Content="Cancel" Height="23" Width="100" Margin="0,10,20,0" Name="btnCancel" VerticalAlignment="Center" Click="btnCancel_Click" />
+                </StackPanel>
+                
+                
+            </DockPanel>
+        </ScrollViewer>
+    </GroupBox>
+    
+</Page>

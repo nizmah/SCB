@@ -1,0 +1,37 @@
+D:\Projects & Samples\Projects\Samkar\Microsoft.Windows.Shell\bin\Debug\Microsoft.Windows.Shell.dll
+D:\Projects & Samples\Projects\Samkar\Microsoft.Windows.Shell\bin\Debug\Microsoft.Windows.Shell.pdb
+D:\Projects & Samples\Projects\Samkar\Microsoft.Windows.Shell\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects & Samples\Projects\Samkar\Microsoft.Windows.Shell\obj\Debug\Microsoft.Windows.Shell.dll
+D:\Projects & Samples\Projects\Samkar\Microsoft.Windows.Shell\obj\Debug\Microsoft.Windows.Shell.pdb
+C:\Users\Rafael\Documents\Visual Studio 2010\Projects\Microsoft.Windows.Shell\bin\Debug\Microsoft.Windows.Shell.dll
+C:\Users\Rafael\Documents\Visual Studio 2010\Projects\Microsoft.Windows.Shell\bin\Debug\Microsoft.Windows.Shell.pdb
+C:\Users\Rafael\Documents\Visual Studio 2010\Projects\Microsoft.Windows.Shell\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Rafael\Documents\Visual Studio 2010\Projects\Microsoft.Windows.Shell\obj\Debug\Microsoft.Windows.Shell.dll
+C:\Users\Rafael\Documents\Visual Studio 2010\Projects\Microsoft.Windows.Shell\obj\Debug\Microsoft.Windows.Shell.pdb
+C:\_ADI\JOB\STANDARDCHARTERED_PROJECT\source\Samkar\Samkar\Microsoft.Windows.Shell\bin\Debug\Microsoft.Windows.Shell.dll
+C:\_ADI\JOB\STANDARDCHARTERED_PROJECT\source\Samkar\Samkar\Microsoft.Windows.Shell\bin\Debug\Microsoft.Windows.Shell.pdb
+C:\_ADI\JOB\STANDARDCHARTERED_PROJECT\source\Samkar\Samkar\Microsoft.Windows.Shell\obj\Debug\Microsoft.Windows.Shell.csprojResolveAssemblyReference.cache
+C:\_ADI\JOB\STANDARDCHARTERED_PROJECT\source\Samkar\Samkar\Microsoft.Windows.Shell\obj\Debug\Microsoft.Windows.Shell.dll
+C:\_ADI\JOB\STANDARDCHARTERED_PROJECT\source\Samkar\Samkar\Microsoft.Windows.Shell\obj\Debug\Microsoft.Windows.Shell.pdb
+E:\Code.id\Standart Chartered Documents\source\Samkar\Samkar\Microsoft.Windows.Shell\bin\Debug\Microsoft.Windows.Shell.dll
+E:\Code.id\Standart Chartered Documents\source\Samkar\Samkar\Microsoft.Windows.Shell\bin\Debug\Microsoft.Windows.Shell.pdb
+E:\Code.id\Standart Chartered Documents\source\Samkar\Samkar\Microsoft.Windows.Shell\obj\Debug\ResolveAssemblyReference.cache
+E:\Code.id\Standart Chartered Documents\source\Samkar\Samkar\Microsoft.Windows.Shell\obj\Debug\Microsoft.Windows.Shell.dll
+E:\Code.id\Standart Chartered Documents\source\Samkar\Samkar\Microsoft.Windows.Shell\obj\Debug\Microsoft.Windows.Shell.pdb
+E:\Code.id\Standart Chartered Documents\ALS\Microsoft.Windows.Shell\bin\Debug\Microsoft.Windows.Shell.dll
+E:\Code.id\Standart Chartered Documents\ALS\Microsoft.Windows.Shell\bin\Debug\Microsoft.Windows.Shell.pdb
+E:\Code.id\Standart Chartered Documents\ALS\Microsoft.Windows.Shell\obj\Debug\ResolveAssemblyReference.cache
+E:\Code.id\Standart Chartered Documents\ALS\Microsoft.Windows.Shell\obj\Debug\Microsoft.Windows.Shell.dll
+E:\Code.id\Standart Chartered Documents\ALS\Microsoft.Windows.Shell\obj\Debug\Microsoft.Windows.Shell.pdb
+D:\My Project\SCB\ALS 31032015\ALS\Microsoft.Windows.Shell\bin\Debug\Microsoft.Windows.Shell.dll
+D:\My Project\SCB\ALS 31032015\ALS\Microsoft.Windows.Shell\bin\Debug\Microsoft.Windows.Shell.pdb
+D:\My Project\SCB\ALS 31032015\ALS\Microsoft.Windows.Shell\obj\Debug\Microsoft.Windows.Shell.dll
+D:\My Project\SCB\ALS 31032015\ALS\Microsoft.Windows.Shell\obj\Debug\Microsoft.Windows.Shell.pdb
+D:\My Project\SCB\Backup\20150520\ALS 31032015\ALS\Microsoft.Windows.Shell\bin\Debug\Microsoft.Windows.Shell.dll
+D:\My Project\SCB\Backup\20150520\ALS 31032015\ALS\Microsoft.Windows.Shell\bin\Debug\Microsoft.Windows.Shell.pdb
+D:\My Project\SCB\Backup\20150520\ALS 31032015\ALS\Microsoft.Windows.Shell\obj\Debug\Microsoft.Windows.Shell.dll
+D:\My Project\SCB\Backup\20150520\ALS 31032015\ALS\Microsoft.Windows.Shell\obj\Debug\Microsoft.Windows.Shell.pdb
+D:\My Project\SCB\ALS\ALS\Microsoft.Windows.Shell\bin\Debug\Microsoft.Windows.Shell.dll
+D:\My Project\SCB\ALS\ALS\Microsoft.Windows.Shell\bin\Debug\Microsoft.Windows.Shell.pdb
+D:\My Project\SCB\ALS\ALS\Microsoft.Windows.Shell\obj\Debug\Microsoft.Windows.Shell.dll
+D:\My Project\SCB\ALS\ALS\Microsoft.Windows.Shell\obj\Debug\Microsoft.Windows.Shell.pdb

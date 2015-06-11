@@ -1,0 +1,17 @@
+E:\Code.id\Standart Chartered Documents\ALS\Als.Enums\bin\Debug\Als.Enums.dll
+E:\Code.id\Standart Chartered Documents\ALS\Als.Enums\bin\Debug\Als.Enums.pdb
+E:\Code.id\Standart Chartered Documents\ALS\Als.Enums\obj\Debug\ResolveAssemblyReference.cache
+E:\Code.id\Standart Chartered Documents\ALS\Als.Enums\obj\Debug\Als.Enums.dll
+E:\Code.id\Standart Chartered Documents\ALS\Als.Enums\obj\Debug\Als.Enums.pdb
+D:\My Project\SCB\ALS 31032015\ALS\Als.Enums\bin\Debug\Als.Enums.dll
+D:\My Project\SCB\ALS 31032015\ALS\Als.Enums\bin\Debug\Als.Enums.pdb
+D:\My Project\SCB\ALS 31032015\ALS\Als.Enums\obj\Debug\Als.Enums.dll
+D:\My Project\SCB\ALS 31032015\ALS\Als.Enums\obj\Debug\Als.Enums.pdb
+D:\My Project\SCB\Backup\20150520\ALS 31032015\ALS\Als.Enums\bin\Debug\Als.Enums.dll
+D:\My Project\SCB\Backup\20150520\ALS 31032015\ALS\Als.Enums\bin\Debug\Als.Enums.pdb
+D:\My Project\SCB\Backup\20150520\ALS 31032015\ALS\Als.Enums\obj\Debug\Als.Enums.dll
+D:\My Project\SCB\Backup\20150520\ALS 31032015\ALS\Als.Enums\obj\Debug\Als.Enums.pdb
+D:\My Project\SCB\ALS\ALS\Als.Enums\bin\Debug\Als.Enums.dll
+D:\My Project\SCB\ALS\ALS\Als.Enums\bin\Debug\Als.Enums.pdb
+D:\My Project\SCB\ALS\ALS\Als.Enums\obj\Debug\Als.Enums.dll
+D:\My Project\SCB\ALS\ALS\Als.Enums\obj\Debug\Als.Enums.pdb

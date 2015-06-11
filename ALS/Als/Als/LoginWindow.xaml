@@ -1,0 +1,53 @@
+﻿<ccl:CustomChromeWindow  x:Class="Als.LoginWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:shell="clr-namespace:Microsoft.Windows.Shell;assembly=Microsoft.Windows.Shell"
+        xmlns:ccl="clr-namespace:CustomChromeLibrary;assembly=CustomChromeLibrary"
+        Title="Login" Height="269" Width="459" ResizeMode="NoResize" ShowInTaskbar="False" Topmost="True" WindowStartupLocation="CenterScreen" AllowsTransparency="False" Opacity="1">
+    <ccl:CustomChromeWindow.Background>
+        <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+            <GradientStop Color="#9B2E78A4" Offset="0" />
+            <GradientStop Color="#B16A8FFA" Offset="0.328" />
+            <GradientStop Color="#AD588CFF" Offset="0.254" />
+            <GradientStop Color="#970F60F9" Offset="0.984" />
+            <GradientStop Color="#AB8CAAED" Offset="0.639" />
+        </LinearGradientBrush>
+    </ccl:CustomChromeWindow.Background>
+    <shell:WindowChrome.WindowChrome>
+        <shell:WindowChrome
+            ResizeBorderThickness="6"
+            CaptionHeight="43"
+            CornerRadius="20"
+            GlassFrameThickness="-1">
+        </shell:WindowChrome>
+    </shell:WindowChrome.WindowChrome>
+    <Grid Height="208" Width="407">
+        <Image Name="img" Width="168" Margin="20,10,0,158" HorizontalAlignment="Left"/>
+        <TextBlock Height="38" HorizontalAlignment="Right" Margin="53,12,0,0"                    
+                   Name="textBlock1" VerticalAlignment="Top" FontSize="24" FontStretch="Normal" 
+                   FontWeight="ExtraBold">
+            <TextBlock.Foreground><LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0"><GradientStop Color="White" Offset="0.651" /><GradientStop Color="White" Offset="1" /><GradientStop Color="#A8404040" Offset="0.587" /><GradientStop Color="#F8C8C8DE" Offset="0.579" /><GradientStop Color="#ABFFFFFF" Offset="0" /></LinearGradientBrush></TextBlock.Foreground>
+            <TextBlock.Text>Airport Lounge System
+            </TextBlock.Text>
+        <TextBlock.Effect>
+            <DropShadowEffect BlurRadius="2" Color="Black" ShadowDepth="2" />
+        </TextBlock.Effect>
+        </TextBlock>
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="124,74,0,0" Name="txtUsr" VerticalAlignment="Top" Width="200" Background="#60FFFFFF" MaxLines="20" TabIndex="1" VerticalContentAlignment="Center" MaxLength="50" />
+        <Button Content="Login" Height="30" HorizontalAlignment="Right" Margin="0,0,114,5" Template="{StaticResource ButtonLogin}" Name="btnLogin" VerticalAlignment="Bottom" Width="100" Click="btnLogin_Click" TabIndex="3" IsDefault="True">
+            
+        </Button>
+        <Button Content="Exit" Height="30" HorizontalAlignment="Right" Margin="0,0,8,5" Name="btnExit" VerticalAlignment="Bottom" Width="100" Click="btnExit_Click" TabIndex="4" IsCancel="True">
+            
+        </Button>
+        <Label Content="User Name:" Height="28" HorizontalAlignment="Left" Margin="47,72,0,0" Name="label1" VerticalAlignment="Top" />
+        <Label Content="Password:" Height="28" HorizontalAlignment="Left" Margin="55,108,0,0" Name="label2" VerticalAlignment="Top" />
+        <!--<TextBlock Height="23" HorizontalAlignment="Left" Margin="124,139,0,0" 
+                   Name="textBlock2"  VerticalAlignment="Top" >
+        <Hyperlink Click="Hyperlink_Click">Lost Passwword?</Hyperlink>
+        </TextBlock>-->
+        <PasswordBox Height="23" HorizontalAlignment="Left" Margin="124,108,0,0" Name="txtPwd" VerticalAlignment="Top" Width="200" Background="#61FFFFFF" TabIndex="2" VerticalContentAlignment="Center" MaxLength="50" />
+        <TextBlock Height="20" HorizontalAlignment="Left" Margin="5,0,0,-2" Name="textBlock3" Text="Copyright Code Id 2015©" VerticalAlignment="Bottom" Foreground="WhiteSmoke" FontSize="10" />
+    </Grid>
+</ccl:CustomChromeWindow>
+

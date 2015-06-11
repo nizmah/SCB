@@ -1,0 +1,86 @@
+﻿<Page x:Class="Als.MerchantPriceListPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      mc:Ignorable="d" 
+      d:DesignHeight="488" d:DesignWidth="800"
+	  Title="Merchant Price List">
+
+   
+        <GroupBox HorizontalAlignment="Stretch" Margin="10"  VerticalAlignment="Stretch"  Template="{StaticResource OutGroupBox}">
+            <GroupBox.Header>
+                <TextBlock Text="Merchant Price List" Foreground="White" />
+            </GroupBox.Header>
+        <ScrollViewer VerticalScrollBarVisibility="Auto" VerticalAlignment="Stretch">
+
+            <DockPanel Height="Auto" Name="stackPanel1" Width="Auto" LastChildFill="True" >
+                <GroupBox DockPanel.Dock="Top" Header="Searching Parameter" HorizontalAlignment="Stretch" Margin="5" Template="{StaticResource InnerGroupBox}" Foreground="Black">
+                    <!--<TextBox Height="23" HorizontalAlignment="Left" Margin="150,43,0,0" Name="txtMerchantName" VerticalAlignment="Top" Width="161" />
+                    <Button Content="_..." Height="23" Width="25" HorizontalAlignment="Left" Margin="315,43,0,0" Name="btnLookupMerchant" VerticalAlignment="Top" Click="btnLookupMerchant_Click" />-->
+                    <Grid>
+                    <ComboBox Height="23" HorizontalAlignment="Left" Margin="150,10,0,0" Name="cbMerchant" 
+                              VerticalAlignment="Top" Width="161" 
+                              ItemsSource="{Binding}" 
+                              DisplayMemberPath="Merchant_Name"
+                              SelectedValuePath="ID" />
+                    <ComboBox Height="23" HorizontalAlignment="Left" Margin="150,43,0,0" Name="cbCardType" 
+                              VerticalAlignment="Top" Width="161" 
+                              ItemsSource="{Binding}" 
+                              DisplayMemberPath="Card_Type_Name"
+                              SelectedValuePath="ID" />
+                    <TextBlock Height="23" HorizontalAlignment="Left" Margin="150,10,0,0" Name="lblMerchantNameValue" VerticalAlignment="Top" Visibility="Hidden" />
+
+
+                    <TextBlock Height="23" HorizontalAlignment="Left" Margin="17,10,0,0" Name="lblMerchantName" Text="Merchant Name" VerticalAlignment="Top" />
+                    <TextBlock Height="23" HorizontalAlignment="Left" Margin="17,43,0,0" Name="lblCardType" Text="Card Type Name" VerticalAlignment="Top" />
+
+                    <Button Content="Show Price List" Height="23" Width="160" HorizontalAlignment="Left" Margin="20,123,140,6" Name="btnShow" VerticalAlignment="Top" Click="btnShow_Click" />
+                    <TextBlock Height="23" HorizontalAlignment="Left" Margin="310,10,0,0" Name="lblMerchantID" VerticalAlignment="Top" Visibility="Hidden" />
+                        <Button Content="Cancel" Height="23" HorizontalAlignment="Left" Visibility="Hidden" Margin="200,123,45,5" Name="btnCancel"  VerticalAlignment="Top" Width="100" Click="btnCancel_Click" />
+                    </Grid>
+                </GroupBox>
+                <GroupBox DockPanel.Dock="Top" Template="{StaticResource InnerGroupBox}" Header="List of Price" HorizontalAlignment="Stretch" Margin="10" Name="groupBox2" VerticalAlignment="Stretch" Visibility="Hidden" >
+                <Grid >
+                    <DataGrid AutoGenerateColumns="False" CanUserAddRows="False" CanUserReorderColumns="False" CanUserResizeColumns="False" 
+                          CanUserResizeRows="False" HeadersVisibility="Column" ItemsSource="{Binding}" Margin="10,45,7,10" 
+                          Name="dgMerchantPriceList" RowHeaderWidth="0" SelectionMode="Single" SelectionUnit="FullRow"
+                          HorizontalScrollBarVisibility="Auto" VerticalScrollBarVisibility="Auto" MaxHeight="1000" HorizontalAlignment="Left" VerticalAlignment="Stretch">
+                        <DataGrid.Columns>
+                            <DataGridTextColumn x:Name="RowNoColumn" Binding="{Binding Path=RowNo}" Header="No" IsReadOnly="True" Width="25" />
+                            <DataGridTextColumn x:Name="GuestAmountColumn" Binding="{Binding Path=Guest_Amount}" Header="Total Guest" IsReadOnly="True" Width="125" />
+                            <DataGridTextColumn x:Name="PriceAmountColumn" Binding="{Binding Path=Price_Amount}" Header="Price Amount" IsReadOnly="True" Width="125" />
+                            <DataGridTextColumn x:Name="PointAmontColumn" Binding="{Binding Path=Point_Amount}" Header="Point Amount" IsReadOnly="True" Width="125" />
+                            <DataGridTemplateColumn Header="Update" Width="50" >
+                                <DataGridTemplateColumn.CellTemplate>
+                                    <DataTemplate>
+                                        <Button Style="{StaticResource LinkButton}" Click="Update_Click" HorizontalAlignment="Center" >Update</Button>
+                                    </DataTemplate>
+                                </DataGridTemplateColumn.CellTemplate>
+                            </DataGridTemplateColumn>
+                            <DataGridTemplateColumn Header="View" Width="50" >
+                                <DataGridTemplateColumn.CellTemplate>
+                                    <DataTemplate>
+                                        <Button Style="{StaticResource LinkButton}" Click="View_Click" HorizontalAlignment="Center" >View</Button>
+                                    </DataTemplate>
+                                </DataGridTemplateColumn.CellTemplate>
+                            </DataGridTemplateColumn>
+                            <DataGridTemplateColumn Header="Delete" Width="50" >
+                                <DataGridTemplateColumn.CellTemplate>
+                                    <DataTemplate>
+                                        <Button Style="{StaticResource LinkButton}" Click="Delete_Click" HorizontalAlignment="Center" >Delete</Button>
+                                    </DataTemplate>
+                                </DataGridTemplateColumn.CellTemplate>
+                            </DataGridTemplateColumn>
+                        </DataGrid.Columns>
+
+
+                    </DataGrid>
+                        <Button Content="Create" Height="23" HorizontalAlignment="Left" Margin="10,10,0,167" Name="btnCreate" VerticalAlignment="Top" Width="100" Click="btnCreate_Click" />
+                </Grid>
+            </GroupBox>
+            </DockPanel>
+        </ScrollViewer>
+    </GroupBox>
+    
+</Page>

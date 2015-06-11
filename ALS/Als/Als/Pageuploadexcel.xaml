@@ -1,0 +1,15 @@
+﻿<Page x:Class="Als.Pageuploadexcel"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      mc:Ignorable="d" 
+      d:DesignHeight="300" d:DesignWidth="300"
+	Title="Pageuploadexcel">
+
+    <Grid Margin="-236,0,-143,-33">
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="239,147,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="323" Name="txtupload"/>
+        <Button Content="Select File" HorizontalAlignment="Left" Margin="579,147,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click"/>
+        <Button Content="Upload" HorizontalAlignment="Left" Margin="579,214,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click_1"/>
+    </Grid>
+</Page>

@@ -1,0 +1,4 @@
+D:\My Project\SCB\ALS\ALS\Microsoft.Windows.Shell\bin\Release\Microsoft.Windows.Shell.dll
+D:\My Project\SCB\ALS\ALS\Microsoft.Windows.Shell\bin\Release\Microsoft.Windows.Shell.pdb
+D:\My Project\SCB\ALS\ALS\Microsoft.Windows.Shell\obj\Release\Microsoft.Windows.Shell.dll
+D:\My Project\SCB\ALS\ALS\Microsoft.Windows.Shell\obj\Release\Microsoft.Windows.Shell.pdb

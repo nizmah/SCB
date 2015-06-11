@@ -1,0 +1,59 @@
+﻿<Window x:Class="Als.BankDetailWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="BankDetailWindow" Height="520" Width="500" 
+        ResizeMode="NoResize" WindowStartupLocation="CenterScreen" >
+    <Grid>
+        <Border Name="titleBorder" Width="Auto" Height="50" Margin="0" VerticalAlignment="Top">
+            <Grid>
+                <TextBlock FontSize="12" TextOptions.TextRenderingMode="Aliased" 
+                           TextOptions.TextFormattingMode="Ideal" FontFamily="Arial" 
+                           Margin="0,19,-1,5" HorizontalAlignment="Right" Width="127">
+                    <TextBlock.Foreground>
+                        <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                            <GradientStop Color="#D3FFFFFF" Offset="0" />
+                            <GradientStop Color="#F1FFFFFF" Offset="1" />
+                            <GradientStop Color="#ACD8CFCF" Offset="0.256" />
+                            <GradientStop Color="#BFEBE7E7" Offset="0.25" />
+                        </LinearGradientBrush>
+                    </TextBlock.Foreground>Airport Lounge System</TextBlock>
+                <TextBlock Height="23" HorizontalAlignment="Left" Margin="6,19,0,0" Name="txtStepOf" Text="" VerticalAlignment="Top" Foreground="White" FontWeight="Bold" FontFamily="Calibri" />
+                <TextBlock Height="23" HorizontalAlignment="Left" Margin="22,6,0,0" Name="lblTitle" Text="" VerticalAlignment="Top" FontSize="15" FontStretch="Condensed" FontWeight="Bold" FontFamily="Arial" Foreground="White" />
+            </Grid>
+            <Border.Background>
+                <LinearGradientBrush EndPoint="1,0.5" StartPoint="0,0.5">
+                    <GradientStop Color="#FF10495C" Offset="0" />
+                    <GradientStop Color="#FF1B8EC1" Offset="1" />
+                </LinearGradientBrush>
+            </Border.Background>
+        </Border>
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="150,60,0,0" Name="txtBankName" VerticalAlignment="Top" Width="161" />
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="150,90,0,0" Name="txtBankBranch" VerticalAlignment="Top" Width="161" />
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="150,120,0,0" Name="txtBankCity" VerticalAlignment="Top" Width="161"  />
+        <TextBox Height="73" HorizontalAlignment="Left" Margin="150,150,0,0" Name="txtBankDescription" VerticalAlignment="Top" Width="161" TextWrapping="Wrap" />
+
+        <TextBlock Height="23" HorizontalAlignment="Left" Margin="17,60,0,0" Name="lblBankName" Text="Bank Name" VerticalAlignment="Top" />
+        <TextBlock Height="23" HorizontalAlignment="Left" Margin="17,90,0,0" Name="lblBankBranch" Text="Branch" VerticalAlignment="Top" />
+        <TextBlock Height="23" HorizontalAlignment="Left" Margin="17,150,0,0" Name="lblBankDescription" Text="Bank Description" VerticalAlignment="Top" />
+        <TextBlock Height="23" HorizontalAlignment="Left" Margin="17,120,0,0" Name="lblBankCity" Text="City" VerticalAlignment="Top" />
+
+        <TextBlock Height="23" HorizontalAlignment="Left" Margin="82,60,0,0" Name="lbl1" Text="*" VerticalAlignment="Top" Foreground="Red" />
+        <TextBlock Height="23" HorizontalAlignment="Left" Margin="56,90,0,0" Name="lbl2" Text="*" VerticalAlignment="Top" Foreground="Red" />
+        <TextBlock Height="23" HorizontalAlignment="Left" Margin="40,120,0,0" Name="lbl3" Text="*" VerticalAlignment="Top" Foreground="Red" />
+        <GroupBox HorizontalAlignment="Left" Name="gbDetail" Height="130" BorderThickness="0" Margin="10,180,0,0">
+            <Grid Height="120" >
+                <TextBlock Height="23" HorizontalAlignment="Left" Margin="11,10,0,0" Name="lblCreatedBy" Text="Created By" VerticalAlignment="Top" />
+                <TextBlock Height="23" HorizontalAlignment="Left" Margin="11,40,0,0" Name="lblCreatedDate" Text="Created Date" VerticalAlignment="Top"  />
+                <TextBlock Height="23" HorizontalAlignment="Left" Margin="11,70,0,0" Name="lblUpdatedBy" Text="Updated By" VerticalAlignment="Top" />
+                <TextBlock Height="23" HorizontalAlignment="Left" Margin="11,100,0,0" Name="lblUpdatedDate" Text="Updated Date" VerticalAlignment="Top" />
+                <TextBlock Height="23" HorizontalAlignment="Left" Margin="150,10,0,0" Name="lblCreatedByValue" VerticalAlignment="Top" />
+                <TextBlock Height="23" HorizontalAlignment="Left" Margin="150,40,0,0" Name="lblCreatedDateValue" VerticalAlignment="Top" />
+                <TextBlock Height="23" HorizontalAlignment="Left" Margin="150,70,0,0" Name="lblUpdatedByValue" VerticalAlignment="Top" />
+                <TextBlock Height="23" HorizontalAlignment="Left" Margin="150,100,0,0" Name="lblUpdatedDateValue" VerticalAlignment="Top" />
+            </Grid>
+        </GroupBox>
+        <Button Content="Save" Height="23" Width="100" HorizontalAlignment="Right" Margin="0,390,135,25" Name="btnSave" VerticalAlignment="Center" Click="btnSave_Click" />
+        <Button Content="Cancel" Height="23" Width="100" HorizontalAlignment="Right" Margin="0,390,20,25" Name="btnCancel" VerticalAlignment="Center" Click="btnCancel_Click" />
+        <TextBlock Height="23" HorizontalAlignment="Left" Margin="306,60,0,0" Name="lblID" VerticalAlignment="Top" Visibility="Hidden" />
+    </Grid>
+</Window>

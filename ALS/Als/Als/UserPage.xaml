@@ -1,0 +1,78 @@
+﻿<Page x:Class="Als.UserPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:cc="clr-namespace:CustomChromeLibrary;assembly=CustomChromeLibrary"
+      mc:Ignorable="d" 
+       d:DesignHeight="488" d:DesignWidth="800"
+	Title="User">
+
+    
+        <GroupBox HorizontalAlignment="Stretch" Margin="10"  VerticalAlignment="Stretch" Template="{StaticResource OutGroupBox}">
+            <GroupBox.Header>
+                <TextBlock Text="User List" Foreground="White" />
+            </GroupBox.Header>
+        <ScrollViewer VerticalScrollBarVisibility="Auto" VerticalAlignment="Stretch">
+            <DockPanel Height="Auto" Name="stackPanel1" Width="Auto" LastChildFill="True" >
+
+                <GroupBox DockPanel.Dock="Top" Header="Searching Parameter" Template="{StaticResource InnerGroupBox}" HorizontalAlignment="Stretch" Margin="5" Name="groupBox1">
+                    <Grid>
+                        <TextBox Height="23" HorizontalAlignment="Left" Margin="109,14,0,0" Name="txtUserId" VerticalAlignment="Top" Width="161" />
+                        <TextBox Height="23" HorizontalAlignment="Left" Margin="109,43,466,0" Name="txtUserName" VerticalAlignment="Top" Width="161" />
+                        <TextBox Height="23" HorizontalAlignment="Left" Margin="109,73,0,0" Name="txtNoExtention" VerticalAlignment="Top" Width="161" />
+                        <TextBox Height="23" HorizontalAlignment="Left" Margin="109,102,0,0" Name="txtJobRole" VerticalAlignment="Top" Width="161" />
+                        <TextBlock Height="23" HorizontalAlignment="Left" Margin="17,102,0,0" Name="lblJobRole" Text="Job Title" VerticalAlignment="Top" />
+                        <TextBlock Height="23" HorizontalAlignment="Left" Margin="17,73,0,0" Name="lblNoExtention" Text="No Extention" VerticalAlignment="Top" />
+                        <TextBlock Height="23" HorizontalAlignment="Left" Margin="17,43,0,0" Name="lblUserName" Text="User Name" VerticalAlignment="Top" />
+                        <TextBlock Height="23" HorizontalAlignment="Left" Margin="17,14,0,0" Name="lblUserId" Text="User ID/PSID" VerticalAlignment="Top" />
+                        <Button Content="Search" Height="23" Width="100" HorizontalAlignment="Right" Margin="0,128,140,6" Name="btnSearch" VerticalAlignment="Center" Click="btnSearch_Click" />
+                        <Button Content="Reset" Height="23" Width="100" HorizontalAlignment="Right" Margin="0,128,25,6" Name="btnReset" VerticalAlignment="Center" Click="btnReset_Click" />
+                    </Grid>
+                </GroupBox>
+                <GroupBox DockPanel.Dock="Top" Header="Search Result" Template="{StaticResource InnerGroupBox}" HorizontalAlignment="Stretch" Margin="5" Name="groupBox2" VerticalAlignment="Stretch">
+                    <Grid>
+                        <DataGrid AutoGenerateColumns="False" CanUserAddRows="False" CanUserReorderColumns="False" CanUserResizeColumns="False" 
+                          CanUserResizeRows="False" HeadersVisibility="Column" ItemsSource="{Binding}" Margin="10,45,7,10"
+                          Name="dgUser" RowHeaderWidth="0" SelectionMode="Single" SelectionUnit="FullRow"
+                          HorizontalScrollBarVisibility="Auto" VerticalScrollBarVisibility="Auto" MaxWidth="1000" MinHeight="140" Height="Auto"  HorizontalAlignment="Left" VerticalAlignment="Stretch">
+                            <DataGrid.Columns>
+                                <DataGridTextColumn x:Name="RowNoColumn" Binding="{Binding Path=RowNo}" Header="No" IsReadOnly="True" Width="25" />
+                                <DataGridTextColumn x:Name="UserIdColumn" Binding="{Binding Path=User_ID}" Header="User ID" IsReadOnly="True" Width="100" />
+                                <DataGridTextColumn x:Name="UserNameColumn" Binding="{Binding Path=User_Name}" Header="User Name" IsReadOnly="True" Width="150" />
+                                <DataGridTextColumn x:Name="ExtNoColumn" Binding="{Binding Path=User_No_Ext}" Header="No Extention" IsReadOnly="True" Width="100" />
+                                <DataGridTextColumn x:Name="JobRoleColumn" Binding="{Binding Path=Job_Role}" Header="Job Title" IsReadOnly="True" Width="100" />
+                                <DataGridTextColumn x:Name="LimitApprovalColumn" Binding="{Binding Path=Limit_Approval}" Header="Limit Approval" IsReadOnly="True" Width="100" />
+                                <DataGridTemplateColumn Header="Update" Width="75" >
+                                    <DataGridTemplateColumn.CellTemplate>
+                                        <DataTemplate>
+                                            <Button Style="{StaticResource LinkButton}" Click="Update_Click" HorizontalAlignment="Center" >Update</Button>
+                                        </DataTemplate>
+                                    </DataGridTemplateColumn.CellTemplate>
+                                </DataGridTemplateColumn>
+                                <DataGridTemplateColumn Header="View" Width="75" >
+                                    <DataGridTemplateColumn.CellTemplate>
+                                        <DataTemplate>
+                                            <Button Style="{StaticResource LinkButton}" Click="View_Click" HorizontalAlignment="Center" >View</Button>
+                                        </DataTemplate>
+                                    </DataGridTemplateColumn.CellTemplate>
+                                </DataGridTemplateColumn>
+                                <DataGridTemplateColumn Header="Delete" Width="75" >
+                                    <DataGridTemplateColumn.CellTemplate>
+                                        <DataTemplate>
+                                            <Button Style="{StaticResource LinkButton}" Click="Delete_Click" HorizontalAlignment="Center" >Delete</Button>
+                                        </DataTemplate>
+                                    </DataGridTemplateColumn.CellTemplate>
+                                </DataGridTemplateColumn>
+                            </DataGrid.Columns>
+                            
+
+                        </DataGrid>
+                        <Button Content="Create" Height="23" HorizontalAlignment="Left" Margin="10,10,0,167" Name="btnCreate" VerticalAlignment="Top" Width="100" Click="btnCreate_Click" />
+                    </Grid>
+                </GroupBox>
+            </DockPanel>
+        </ScrollViewer>
+    </GroupBox>
+    
+</Page>

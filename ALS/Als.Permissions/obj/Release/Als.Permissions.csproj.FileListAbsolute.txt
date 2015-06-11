@@ -1,0 +1,9 @@
+D:\My Project\SCB\ALS\ALS\Als.Permissions\bin\Release\Als.Permissions.dll
+D:\My Project\SCB\ALS\ALS\Als.Permissions\bin\Release\Als.Permissions.pdb
+D:\My Project\SCB\ALS\ALS\Als.Permissions\bin\Release\Als.Enums.dll
+D:\My Project\SCB\ALS\ALS\Als.Permissions\bin\Release\Als.Helper.dll
+D:\My Project\SCB\ALS\ALS\Als.Permissions\bin\Release\Als.Enums.pdb
+D:\My Project\SCB\ALS\ALS\Als.Permissions\bin\Release\Als.Helper.pdb
+D:\My Project\SCB\ALS\ALS\Als.Permissions\obj\Release\Als.Permissions.csprojResolveAssemblyReference.cache
+D:\My Project\SCB\ALS\ALS\Als.Permissions\obj\Release\Als.Permissions.dll
+D:\My Project\SCB\ALS\ALS\Als.Permissions\obj\Release\Als.Permissions.pdb
